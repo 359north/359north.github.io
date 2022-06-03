@@ -1,0 +1,82 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		972C3853284A9FC000B1E347 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		972C3854284A9FCD00B1E347 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		972C3855284AA1E400B1E347 /* icons */ = {isa = PBXFileReference; lastKnownFileType = folder; path = icons; sourceTree = "<group>"; };
+		972C3856284AA1E400B1E347 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
+		972C3857284AA1E400B1E347 /* stylesheets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = stylesheets; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		972C384C284A9F5C00B1E347 = {
+			isa = PBXGroup;
+			children = (
+				972C3855284AA1E400B1E347 /* icons */,
+				972C3856284AA1E400B1E347 /* images */,
+				972C3857284AA1E400B1E347 /* stylesheets */,
+				972C3854284A9FCD00B1E347 /* .gitignore */,
+				972C3853284A9FC000B1E347 /* index.html */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		972C384D284A9F5C00B1E347 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1340;
+			};
+			buildConfigurationList = 972C3850284A9F5C00B1E347 /* Build configuration list for PBXProject "359north.github.io" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 972C384C284A9F5C00B1E347;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		972C3851284A9F5C00B1E347 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		972C3852284A9F5C00B1E347 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		972C3850284A9F5C00B1E347 /* Build configuration list for PBXProject "359north.github.io" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				972C3851284A9F5C00B1E347 /* Debug */,
+				972C3852284A9F5C00B1E347 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 972C384D284A9F5C00B1E347 /* Project object */;
+}
