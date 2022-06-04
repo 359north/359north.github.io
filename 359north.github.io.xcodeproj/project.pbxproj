@@ -21,11 +21,11 @@
 			isa = PBXGroup;
 			children = (
 				975E7077284BE3F900241F55 /* .gitignore */,
-				975E7076284BE3EB00241F55 /* icons */,
-				975E7071284BE3EB00241F55 /* images */,
 				975E7075284BE3EB00241F55 /* index.html */,
 				975E7073284BE3EB00241F55 /* privacy-policy-2022.html */,
 				975E7072284BE3EB00241F55 /* privacy-policy.html */,
+				975E7076284BE3EB00241F55 /* icons */,
+				975E7071284BE3EB00241F55 /* images */,
 				975E7074284BE3EB00241F55 /* stylesheets */,
 			);
 			sourceTree = "<group>";
