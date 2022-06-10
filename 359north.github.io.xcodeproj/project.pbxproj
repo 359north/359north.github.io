@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		9726ECE12853F153002E7BDD /* apps.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = apps.html; sourceTree = "<group>"; };
 		9726ECE22853F22F002E7BDD /* contact.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = contact.html; sourceTree = "<group>"; };
+		9726ECE3285401E0002E7BDD /* CNAME */ = {isa = PBXFileReference; lastKnownFileType = text; path = CNAME; sourceTree = "<group>"; };
 		975E7071284BE3EB00241F55 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
 		975E7072284BE3EB00241F55 /* privacy-policy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "privacy-policy.html"; sourceTree = "<group>"; };
 		975E7073284BE3EB00241F55 /* privacy-policy-2022.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "privacy-policy-2022.html"; sourceTree = "<group>"; };
@@ -22,6 +23,7 @@
 		975E706A284BE39C00241F55 = {
 			isa = PBXGroup;
 			children = (
+				9726ECE3285401E0002E7BDD /* CNAME */,
 				975E7077284BE3F900241F55 /* .gitignore */,
 				975E7075284BE3EB00241F55 /* index.html */,
 				975E7073284BE3EB00241F55 /* privacy-policy-2022.html */,
