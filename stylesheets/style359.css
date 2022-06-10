@@ -95,7 +95,7 @@ p {
 }
 
 .screenshot {
-	width: 230px;
+	max-width: 100%;
 	height: 466px;
 }
 
