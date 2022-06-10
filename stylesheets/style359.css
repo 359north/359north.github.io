@@ -94,6 +94,10 @@ p {
 	border-radius: 25px;
 }
 
+.screenshot {
+	width: 230px;
+	height: 466px;
+}
 
 .appicon-small {
 	width: 128px;
