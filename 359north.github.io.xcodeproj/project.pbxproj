@@ -32,7 +32,6 @@
 		97822B6B285BEBCA00BE413E /* index-gb.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index-gb.html"; sourceTree = "<group>"; };
 		97822B6C285BEBE500BE413E /* index-fr-ca.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index-fr-ca.html"; sourceTree = "<group>"; };
 		97D5B1CA2857D1A000B5433A /* index-de.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index-de.html"; sourceTree = "<group>"; };
-		97D5B1CB2857EDD900B5433A /* m.index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = m.index.html; sourceTree = "<group>"; };
 		97D5B1CC2858161100B5433A /* snippets.not.to.be.committed */ = {isa = PBXFileReference; lastKnownFileType = text; path = snippets.not.to.be.committed; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -58,7 +57,6 @@
 				97822B67285BE9FF00BE413E /* index-in.html */,
 				97822B68285BEA0600BE413E /* index-cn.html */,
 				978133DC285A796000714B80 /* index-jp.html */,
-				97D5B1CB2857EDD900B5433A /* m.index.html */,
 				97D5B1CC2858161100B5433A /* snippets.not.to.be.committed */,
 				975E7073284BE3EB00241F55 /* privacy-policy-2022.html */,
 				975E7072284BE3EB00241F55 /* privacy-policy.html */,
