@@ -9,6 +9,21 @@
 /* Begin PBXFileReference section */
 		9726ECE22853F22F002E7BDD /* contact.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = contact.html; sourceTree = "<group>"; };
 		9726ECE3285401E0002E7BDD /* CNAME */ = {isa = PBXFileReference; lastKnownFileType = text; path = CNAME; sourceTree = "<group>"; };
+		973AEB2F2900633600146F05 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		973AEB312900633600146F05 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		973AEB332900633600146F05 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		973AEB352900633600146F05 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		973AEB372900633600146F05 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		973AEB392900633600146F05 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		973AEB3B2900633600146F05 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		973AEB3D2900633600146F05 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		973AEB3F2900633600146F05 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		973AEB412900633600146F05 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		973AEB432900633600146F05 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		973AEB452900633700146F05 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		973AEB472900633700146F05 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		973AEB492900633700146F05 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		973AEB4B2900633700146F05 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		975E7071284BE3EB00241F55 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
 		975E7072284BE3EB00241F55 /* privacy-policy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "privacy-policy.html"; sourceTree = "<group>"; };
 		975E7073284BE3EB00241F55 /* privacy-policy-2022.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "privacy-policy-2022.html"; sourceTree = "<group>"; };
@@ -16,46 +31,151 @@
 		975E7075284BE3EB00241F55 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		975E7076284BE3EB00241F55 /* icons */ = {isa = PBXFileReference; lastKnownFileType = folder; path = icons; sourceTree = "<group>"; };
 		975E7077284BE3F900241F55 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
-		978133DC285A796000714B80 /* index-jp.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index-jp.html"; sourceTree = "<group>"; };
-		97822B60285BE9A800BE413E /* index-fr.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index-fr.html"; sourceTree = "<group>"; };
-		97822B61285BE9BB00BE413E /* index-es.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index-es.html"; sourceTree = "<group>"; };
-		97822B62285BE9C900BE413E /* index-it.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index-it.html"; sourceTree = "<group>"; };
-		97822B63285BE9D200BE413E /* index-pl.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index-pl.html"; sourceTree = "<group>"; };
-		97822B64285BE9EA00BE413E /* index-se.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index-se.html"; sourceTree = "<group>"; };
-		97822B65285BE9F100BE413E /* index-ru.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index-ru.html"; sourceTree = "<group>"; };
-		97822B66285BE9F800BE413E /* index-ua.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index-ua.html"; sourceTree = "<group>"; };
-		97822B67285BE9FF00BE413E /* index-in.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index-in.html"; sourceTree = "<group>"; };
-		97822B68285BEA0600BE413E /* index-cn.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index-cn.html"; sourceTree = "<group>"; };
-		97822B69285BEBAE00BE413E /* index-ca.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index-ca.html"; sourceTree = "<group>"; };
-		97822B6A285BEBBC00BE413E /* index-au.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index-au.html"; sourceTree = "<group>"; };
-		97822B6B285BEBCA00BE413E /* index-gb.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index-gb.html"; sourceTree = "<group>"; };
-		97822B6C285BEBE500BE413E /* index-fr-ca.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index-fr-ca.html"; sourceTree = "<group>"; };
-		97D5B1CA2857D1A000B5433A /* index-de.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index-de.html"; sourceTree = "<group>"; };
 		97D5B1CC2858161100B5433A /* snippets.not.to.be.committed */ = {isa = PBXFileReference; lastKnownFileType = text; path = snippets.not.to.be.committed; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
+		973AEB2E2900633600146F05 /* it */ = {
+			isa = PBXGroup;
+			children = (
+				973AEB2F2900633600146F05 /* index.html */,
+			);
+			path = it;
+			sourceTree = "<group>";
+		};
+		973AEB302900633600146F05 /* fr */ = {
+			isa = PBXGroup;
+			children = (
+				973AEB312900633600146F05 /* index.html */,
+			);
+			path = fr;
+			sourceTree = "<group>";
+		};
+		973AEB322900633600146F05 /* ru */ = {
+			isa = PBXGroup;
+			children = (
+				973AEB332900633600146F05 /* index.html */,
+			);
+			path = ru;
+			sourceTree = "<group>";
+		};
+		973AEB342900633600146F05 /* ca */ = {
+			isa = PBXGroup;
+			children = (
+				973AEB352900633600146F05 /* index.html */,
+			);
+			path = ca;
+			sourceTree = "<group>";
+		};
+		973AEB362900633600146F05 /* fr-ca */ = {
+			isa = PBXGroup;
+			children = (
+				973AEB372900633600146F05 /* index.html */,
+			);
+			path = "fr-ca";
+			sourceTree = "<group>";
+		};
+		973AEB382900633600146F05 /* au */ = {
+			isa = PBXGroup;
+			children = (
+				973AEB392900633600146F05 /* index.html */,
+			);
+			path = au;
+			sourceTree = "<group>";
+		};
+		973AEB3A2900633600146F05 /* de */ = {
+			isa = PBXGroup;
+			children = (
+				973AEB3B2900633600146F05 /* index.html */,
+			);
+			path = de;
+			sourceTree = "<group>";
+		};
+		973AEB3C2900633600146F05 /* jp */ = {
+			isa = PBXGroup;
+			children = (
+				973AEB3D2900633600146F05 /* index.html */,
+			);
+			path = jp;
+			sourceTree = "<group>";
+		};
+		973AEB3E2900633600146F05 /* in */ = {
+			isa = PBXGroup;
+			children = (
+				973AEB3F2900633600146F05 /* index.html */,
+			);
+			path = in;
+			sourceTree = "<group>";
+		};
+		973AEB402900633600146F05 /* ua */ = {
+			isa = PBXGroup;
+			children = (
+				973AEB412900633600146F05 /* index.html */,
+			);
+			path = ua;
+			sourceTree = "<group>";
+		};
+		973AEB422900633600146F05 /* gb */ = {
+			isa = PBXGroup;
+			children = (
+				973AEB432900633600146F05 /* index.html */,
+			);
+			path = gb;
+			sourceTree = "<group>";
+		};
+		973AEB442900633700146F05 /* se */ = {
+			isa = PBXGroup;
+			children = (
+				973AEB452900633700146F05 /* index.html */,
+			);
+			path = se;
+			sourceTree = "<group>";
+		};
+		973AEB462900633700146F05 /* es */ = {
+			isa = PBXGroup;
+			children = (
+				973AEB472900633700146F05 /* index.html */,
+			);
+			path = es;
+			sourceTree = "<group>";
+		};
+		973AEB482900633700146F05 /* pl */ = {
+			isa = PBXGroup;
+			children = (
+				973AEB492900633700146F05 /* index.html */,
+			);
+			path = pl;
+			sourceTree = "<group>";
+		};
+		973AEB4A2900633700146F05 /* cn */ = {
+			isa = PBXGroup;
+			children = (
+				973AEB4B2900633700146F05 /* index.html */,
+			);
+			path = cn;
+			sourceTree = "<group>";
+		};
 		975E706A284BE39C00241F55 = {
 			isa = PBXGroup;
 			children = (
 				9726ECE3285401E0002E7BDD /* CNAME */,
 				975E7077284BE3F900241F55 /* .gitignore */,
 				975E7075284BE3EB00241F55 /* index.html */,
-				97822B69285BEBAE00BE413E /* index-ca.html */,
-				97822B6A285BEBBC00BE413E /* index-au.html */,
-				97822B6B285BEBCA00BE413E /* index-gb.html */,
-				97D5B1CA2857D1A000B5433A /* index-de.html */,
-				97822B60285BE9A800BE413E /* index-fr.html */,
-				97822B6C285BEBE500BE413E /* index-fr-ca.html */,
-				97822B61285BE9BB00BE413E /* index-es.html */,
-				97822B62285BE9C900BE413E /* index-it.html */,
-				97822B63285BE9D200BE413E /* index-pl.html */,
-				97822B64285BE9EA00BE413E /* index-se.html */,
-				97822B65285BE9F100BE413E /* index-ru.html */,
-				97822B66285BE9F800BE413E /* index-ua.html */,
-				97822B67285BE9FF00BE413E /* index-in.html */,
-				97822B68285BEA0600BE413E /* index-cn.html */,
-				978133DC285A796000714B80 /* index-jp.html */,
+				973AEB382900633600146F05 /* au */,
+				973AEB342900633600146F05 /* ca */,
+				973AEB4A2900633700146F05 /* cn */,
+				973AEB3A2900633600146F05 /* de */,
+				973AEB462900633700146F05 /* es */,
+				973AEB302900633600146F05 /* fr */,
+				973AEB362900633600146F05 /* fr-ca */,
+				973AEB422900633600146F05 /* gb */,
+				973AEB3E2900633600146F05 /* in */,
+				973AEB2E2900633600146F05 /* it */,
+				973AEB3C2900633600146F05 /* jp */,
+				973AEB482900633700146F05 /* pl */,
+				973AEB322900633600146F05 /* ru */,
+				973AEB442900633700146F05 /* se */,
+				973AEB402900633600146F05 /* ua */,
 				97D5B1CC2858161100B5433A /* snippets.not.to.be.committed */,
 				975E7073284BE3EB00241F55 /* privacy-policy-2022.html */,
 				975E7072284BE3EB00241F55 /* privacy-policy.html */,
