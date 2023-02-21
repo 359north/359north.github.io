@@ -16,7 +16,7 @@ body {
 }
 
 .navigationwrapper {
-	height: 60px;
+	height: 32px;
 	line-height: 1.5;
 	max-width: 600px;
 	position: relative;
@@ -76,7 +76,7 @@ p {
 
 .language
 {
-	width: 25px;
+	width: 35px;
 	float: left;
 	
 }
@@ -105,11 +105,26 @@ p {
 	height: 466px;
 }
 
+.image-portrait {
+    width: 200px;
+    box-shadow:0 5px 15px 0 rgba(0,0,0,0.6);
+}
+
 .appicon-small {
 	width: 128px;
 	border-radius: 8px;
 	box-shadow:0 5px 15px 0 rgba(0,0,0,0.6);
 }
+
+.appicon-mini {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 48px;
+    border-radius: 8px;
+    box-shadow:0 5px 15px 0 rgba(0,0,0,0.6);
+}
+
 .app {
 }
 
@@ -183,4 +198,16 @@ a:active {
 	margin-right: 4px;
 }
 
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
 
+.table-cell {
+  height: 64px;
+  width: 64px;
+}
+
+table {
+  padding: 50;
+}
