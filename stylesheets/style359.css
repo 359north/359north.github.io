@@ -217,10 +217,9 @@ table {
 }
 
 .container {
-  width: 70%; /* Set the desired width of your container */
+  width: 85%; /* Set the desired width of your container */
   margin: auto; /* Center the container */
   text-align: center; /* Center the content horizontally */
-
 }
 
 .container img {
