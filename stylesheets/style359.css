@@ -105,10 +105,6 @@ p {
 	height: 466px;
 }
 
-.collection-cell {
-	max-width: 350px;
-}
-
 .image-portrait {
     width: 200px;
     box-shadow:0 5px 15px 0 rgba(0,0,0,0.6);
@@ -216,6 +212,10 @@ table {
   padding: 50;
 }
 
+.collection-cell {
+	max-width: 350px;
+}
+
 .container {
   width: 70%; /* Set the desired width of your container */
   margin: auto; /* Center the container */
@@ -228,4 +228,6 @@ table {
   height: auto; /* Maintain the aspect ratio */
   display: block; /* Remove any extra spacing below the image */
   margin: auto; /* Center the image within the container */
+  border-radius: 10px; /* Adjust the border-radius as needed for the desired rounded corners */
+  background-color: #0095C8;
 }
