@@ -105,6 +105,11 @@ p {
 	height: 466px;
 }
 
+.collection-cell {
+	max-width: 350px;
+}
+
+
 .appicon-small {
 	width: 128px;
 	border-radius: 8px;

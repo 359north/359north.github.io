@@ -105,6 +105,10 @@ p {
 	height: 466px;
 }
 
+.collection-cell {
+	max-width: 350px;
+}
+
 .image-portrait {
     width: 200px;
     box-shadow:0 5px 15px 0 rgba(0,0,0,0.6);
