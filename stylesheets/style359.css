@@ -88,10 +88,12 @@ p {
 }
 .left2
 {
-	width: 128px;
+	padding-top: 10px;
+	width: 320px;
 	float: left;
 	
 }
+
 .right
 {
 	width: 350px;
@@ -223,6 +225,12 @@ table {
 
 .container {
 	width: 85%; /* Set the desired width of your container */
+	margin: auto; /* Center the container */
+	text-align: center; /* Center the content horizontally */
+}
+
+.container2 {
+	width: 20%; /* Set the desired width of your container */
 	margin: auto; /* Center the container */
 	text-align: center; /* Center the content horizontally */
 }
