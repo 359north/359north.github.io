@@ -37,9 +37,9 @@ h3 {
 	line-height: 1.25;
 	font-weight: 700;
 	letter-spacing: .023em;
-	margin: 0;
+	margin: 10;
 	padding: 0;
-	white-space: nowrap;
+	white-space: normal;
 }
 
 h4 {
@@ -49,9 +49,9 @@ h4 {
 	font-weight: 400;
 	letter-spacing: .027em;
 	font-family: "SF Pro Display","SF Pro Icons","Apple WebExp Icons Custom","Helvetica Neue",Helvetica,Arial,sans-serif;
-	margin: 0;
+	margin: 10;
 	padding: 0;
-	white-space: nowrap;
+	white-space: normal;
 }
 
 hr {
