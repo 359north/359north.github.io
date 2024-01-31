@@ -36,7 +36,6 @@
 		78815C2F2B66E84A000234DA /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		78815C312B66E84A000234DA /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		78815C332B66E84A000234DA /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
-		78815C352B66E84A000234DA /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		78815C372B66E84A000234DA /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		78815C3B2B66E84B000234DA /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		78815C3D2B66E84B000234DA /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
@@ -235,7 +234,6 @@
 				78815C322B66E84A000234DA /* fr */,
 				78815C222B66E84A000234DA /* fr-ca */,
 				78815C2E2B66E84A000234DA /* gb */,
-				78815C342B66E84A000234DA /* in */,
 				78815C2A2B66E84A000234DA /* it */,
 				78815C3A2B66E84A000234DA /* jp */,
 				78815C262B66E84A000234DA /* pl */,
@@ -322,14 +320,6 @@
 				78815C9D2B6703CA000234DA /* images */,
 			);
 			path = fr;
-			sourceTree = "<group>";
-		};
-		78815C342B66E84A000234DA /* in */ = {
-			isa = PBXGroup;
-			children = (
-				78815C352B66E84A000234DA /* index.html */,
-			);
-			path = in;
 			sourceTree = "<group>";
 		};
 		78815C362B66E84A000234DA /* se */ = {
