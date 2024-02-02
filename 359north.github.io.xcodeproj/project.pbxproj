@@ -8,22 +8,6 @@
 
 /* Begin PBXFileReference section */
 		7824991C2B67166900FBBE33 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
-		7824991F2B6896B200FBBE33 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
-		782499212B6896B200FBBE33 /* cell.11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell.11.png; sourceTree = "<group>"; };
-		782499222B6896B200FBBE33 /* cell.10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell.10.png; sourceTree = "<group>"; };
-		782499232B6896B200FBBE33 /* cell.12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell.12.png; sourceTree = "<group>"; };
-		782499242B6896B200FBBE33 /* cell.13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell.13.png; sourceTree = "<group>"; };
-		782499252B6896B200FBBE33 /* main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = main.png; sourceTree = "<group>"; };
-		782499262B6896B200FBBE33 /* cell.6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell.6.png; sourceTree = "<group>"; };
-		782499272B6896B200FBBE33 /* cell.7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell.7.png; sourceTree = "<group>"; };
-		782499282B6896B200FBBE33 /* cell.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell.5.png; sourceTree = "<group>"; };
-		782499292B6896B200FBBE33 /* cell.4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell.4.png; sourceTree = "<group>"; };
-		7824992A2B6896B200FBBE33 /* cell.0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell.0.png; sourceTree = "<group>"; };
-		7824992B2B6896B200FBBE33 /* cell.1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell.1.png; sourceTree = "<group>"; };
-		7824992C2B6896B200FBBE33 /* cell.3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell.3.png; sourceTree = "<group>"; };
-		7824992D2B6896B200FBBE33 /* cell.2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell.2.png; sourceTree = "<group>"; };
-		7824992E2B6896B200FBBE33 /* cell.9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell.9.png; sourceTree = "<group>"; };
-		7824992F2B6896B200FBBE33 /* cell.8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell.8.png; sourceTree = "<group>"; };
 		782499302B6989C400FBBE33 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		786480EC29A574210059B3E5 /* team.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = team.html; sourceTree = "<group>"; };
 		78815C192B65D30E000234DA /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
@@ -180,37 +164,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
-		7824991E2B6896B200FBBE33 /* xtest */ = {
-			isa = PBXGroup;
-			children = (
-				7824991F2B6896B200FBBE33 /* index.html */,
-				782499202B6896B200FBBE33 /* images */,
-			);
-			path = xtest;
-			sourceTree = "<group>";
-		};
-		782499202B6896B200FBBE33 /* images */ = {
-			isa = PBXGroup;
-			children = (
-				782499212B6896B200FBBE33 /* cell.11.png */,
-				782499222B6896B200FBBE33 /* cell.10.png */,
-				782499232B6896B200FBBE33 /* cell.12.png */,
-				782499242B6896B200FBBE33 /* cell.13.png */,
-				782499262B6896B200FBBE33 /* cell.6.png */,
-				782499272B6896B200FBBE33 /* cell.7.png */,
-				782499282B6896B200FBBE33 /* cell.5.png */,
-				782499292B6896B200FBBE33 /* cell.4.png */,
-				7824992A2B6896B200FBBE33 /* cell.0.png */,
-				7824992B2B6896B200FBBE33 /* cell.1.png */,
-				7824992C2B6896B200FBBE33 /* cell.3.png */,
-				7824992D2B6896B200FBBE33 /* cell.2.png */,
-				7824992E2B6896B200FBBE33 /* cell.9.png */,
-				7824992F2B6896B200FBBE33 /* cell.8.png */,
-				782499252B6896B200FBBE33 /* main.png */,
-			);
-			path = images;
-			sourceTree = "<group>";
-		};
 		78815C182B65D30E000234DA /* maxdaylight */ = {
 			isa = PBXGroup;
 			children = (
@@ -225,7 +178,6 @@
 			children = (
 				78815C192B65D30E000234DA /* index.html */,
 				78815C422B66F60B000234DA /* images */,
-				7824991E2B6896B200FBBE33 /* xtest */,
 				78815C382B66E84A000234DA /* au */,
 				78815C302B66E84A000234DA /* ca */,
 				78815C2C2B66E84A000234DA /* cn */,
