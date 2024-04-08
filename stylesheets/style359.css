@@ -61,7 +61,11 @@ hr {
 p {
 	font-size: 14px;
 }
-
+p2 {
+	font-size: 16px;
+	font-weight: 700;
+	color: #006600;
+}
 .content {
 	max-width: 625px;
 	min-width: 340px;
@@ -230,7 +234,7 @@ table {
 }
 
 .container2 {
-	width: 20%; /* Set the desired width of your container */
+	width: 85%; /* Set the desired width of your container */
 	margin: auto; /* Center the container */
 	text-align: center; /* Center the content horizontally */
 }
@@ -240,6 +244,13 @@ table {
 	height: auto; /* Maintain the aspect ratio */
 	display: block; /* Remove any extra spacing below the image */
 	margin: auto; /* Center the image within the container */
-	border-radius: 10px; /* Adjust the border-radius as needed for the desired rounded corners */
+	border-radius: 16px; /* Adjust the border-radius as needed for the desired rounded corners */
 	background-color: #365B9F;
+}
+
+.container2 img {
+	max-width: 100%; /* Set the maximum width of the image to 100% of its container */
+	height: auto; /* Maintain the aspect ratio */
+	display: block; /* Remove any extra spacing below the image */
+	margin: auto; /* Center the image within the container */
 }
