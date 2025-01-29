@@ -254,3 +254,23 @@ table {
 	display: block; /* Remove any extra spacing below the image */
 	margin: auto; /* Center the image within the container */
 }
+
+.grid-container {
+	 display: grid;
+	 grid-template-columns: repeat(4, 1fr); /* 4 equal columns */
+	 gap: 10px; /* space between images */
+	 width: 100%; /* adjust this width as needed */
+	 background-color: #777; /* dark gray background */
+	 padding: 15px; /* padding inside the container */
+	 border-radius: 15px; /* rounded corners for the grid container */
+/*	 max-width: 600px; /* optional: restrict max grid width */
+}
+
+.grid-container img {
+	 width: 100%;
+	 height: auto;
+	 display: block;
+	 object-fit: cover;
+	 border: 1px solid #ccc; /* optional border for visual separation */
+/*	 border-radius: 5px; /* optional rounded corners */
+}
