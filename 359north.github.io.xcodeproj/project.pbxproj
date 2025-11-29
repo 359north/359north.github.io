@@ -294,6 +294,7 @@
 		78F6D6D72D012D73003F0930 /* main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = main.png; sourceTree = "<group>"; };
 		78F6D6D82D012D8D003F0930 /* main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = main.png; sourceTree = "<group>"; };
 		78F6D6D92D012D97003F0930 /* main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = main.png; sourceTree = "<group>"; };
+		78FAEB042EBFB855000E177A /* cloudKitDaily.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = cloudKitDaily.html; sourceTree = "<group>"; };
 		9726ECE22853F22F002E7BDD /* contact.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = contact.html; sourceTree = "<group>"; };
 		9726ECE3285401E0002E7BDD /* CNAME */ = {isa = PBXFileReference; lastKnownFileType = text; path = CNAME; sourceTree = "<group>"; };
 		973AEB2F2900633600146F05 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
@@ -972,6 +973,7 @@
 				9726ECE3285401E0002E7BDD /* CNAME */,
 				975E7077284BE3F900241F55 /* .gitignore */,
 				975E7075284BE3EB00241F55 /* index.html */,
+				78FAEB042EBFB855000E177A /* cloudKitDaily.html */,
 				78815C182B65D30E000234DA /* maxdaylight */,
 				973AEB382900633600146F05 /* au */,
 				973AEB342900633600146F05 /* ca */,
