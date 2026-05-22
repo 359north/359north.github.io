@@ -146,6 +146,12 @@
 		7873E3442DBDE72F0038E6AF /* widgets.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = widgets.png; sourceTree = "<group>"; };
 		7873E3452DBDE73E0038E6AF /* widgets.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = widgets.png; sourceTree = "<group>"; };
 		7873E3462DBDE74F0038E6AF /* widgets.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = widgets.png; sourceTree = "<group>"; };
+		787A75282FC1135A0049F94B /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		787A75292FC1135A0049F94B /* items.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = items.json; sourceTree = "<group>"; };
+		787A752A2FC1135A0049F94B /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
+		787A752C2FC1135A0049F94B /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		787A752D2FC1135A0049F94B /* items.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = items.json; sourceTree = "<group>"; };
+		787A752E2FC1135A0049F94B /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 		78815C192B65D30E000234DA /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		78815C232B66E84A000234DA /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		78815C252B66E84A000234DA /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
@@ -621,6 +627,35 @@
 				7873E3462DBDE74F0038E6AF /* widgets.png */,
 			);
 			path = images;
+			sourceTree = "<group>";
+		};
+		787A752B2FC1135A0049F94B /* GPXViewControllerNewMain-tutorial */ = {
+			isa = PBXGroup;
+			children = (
+				787A75282FC1135A0049F94B /* index.html */,
+				787A75292FC1135A0049F94B /* items.json */,
+				787A752A2FC1135A0049F94B /* screenshot.png */,
+			);
+			path = "GPXViewControllerNewMain-tutorial";
+			sourceTree = "<group>";
+		};
+		787A752F2FC1135A0049F94B /* GPXViewControllerVideoFilter-tutorial */ = {
+			isa = PBXGroup;
+			children = (
+				787A752C2FC1135A0049F94B /* index.html */,
+				787A752D2FC1135A0049F94B /* items.json */,
+				787A752E2FC1135A0049F94B /* screenshot.png */,
+			);
+			path = "GPXViewControllerVideoFilter-tutorial";
+			sourceTree = "<group>";
+		};
+		787A75302FC1135A0049F94B /* GPX-V */ = {
+			isa = PBXGroup;
+			children = (
+				787A752B2FC1135A0049F94B /* GPXViewControllerNewMain-tutorial */,
+				787A752F2FC1135A0049F94B /* GPXViewControllerVideoFilter-tutorial */,
+			);
+			path = "GPX-V";
 			sourceTree = "<group>";
 		};
 		78815C182B65D30E000234DA /* maxdaylight */ = {
@@ -1103,6 +1138,7 @@
 		975E706A284BE39C00241F55 = {
 			isa = PBXGroup;
 			children = (
+				787A75302FC1135A0049F94B /* GPX-V */,
 				9726ECE3285401E0002E7BDD /* CNAME */,
 				975E7077284BE3F900241F55 /* .gitignore */,
 				975E7075284BE3EB00241F55 /* index.html */,

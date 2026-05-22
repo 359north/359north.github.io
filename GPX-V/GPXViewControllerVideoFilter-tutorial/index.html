@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Tutorial</title>
+<style>
+body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 20px; background: #f6f6f6; color: #1c1c1e; }
+.tutorial { position: relative; display: inline-block; max-width: 100%; }
+.tutorial img { display: block; max-width: 100%; height: auto; }
+.hotspot { position: absolute; border: 3px solid transparent; border-radius: 6px; box-sizing: border-box; cursor: pointer; transition: background-color 0.15s, border-color 0.15s; }
+.hotspot:hover { border-color: #34c759; background-color: rgba(52,199,89,0.18); }
+.hotspot.active { background-color: rgba(52,199,89,0.18); }
+.caption { margin-top: 14px; min-height: 3em; font-size: 14pt; line-height: 1.4; max-width: 720px; }
+.caption .title { font-weight: 600; }
+</style>
+</head>
+<body>
+<div class="tutorial" id="tutorial">
+<img src="screenshot.png" alt="Tutorial screenshot">
+<div class="hotspot" data-index="0" data-title="The Video Filter Editor" data-explanation="defines and applies video filters to segments of the video." style="left:0.0000%; top:0.0000%; width:100.0000%; height:100.0000%;" title="The Video Filter Editor"></div>
+<div class="hotspot" data-index="1" data-title="The Range Label" data-explanation="shows the start, finish and length of the video segment to which the filter will be applied." style="left:40.7324%; top:6.2927%; width:18.5353%; height:2.1888%;" title="The Range Label"></div>
+<div class="hotspot" data-index="2" data-title="The Table View" data-explanation="lists the filters you have applied to the video." style="left:1.8987%; top:15.1847%; width:16.7269%; height:76.4706%;" title="The Table View"></div>
+<div class="hotspot" data-index="3" data-title="The Delete Button" data-explanation="deletes the selected filter." style="left:1.8083%; top:92.7497%; width:8.3635%; height:4.6512%;" title="The Delete Button"></div>
+<div class="hotspot" data-index="4" data-title="The Add Button" data-explanation="adds a new filter to the list." style="left:10.3526%; top:92.7497%; width:8.3635%; height:4.6512%;" title="The Add Button"></div>
+<div class="hotspot" data-index="5" data-title="The Preview Frame View" data-explanation="shows the effect of the applied filter on the first, middle, and last video frames." style="left:19.9367%; top:14.2271%; width:78.2098%; height:21.8878%;" title="The Preview Frame View"></div>
+<div class="hotspot" data-index="6" data-title="The Original Frame View" data-explanation="shows the first, middle, and last video frames to which the filter will be applied." style="left:19.9367%; top:37.2093%; width:78.2098%; height:21.8878%;" title="The Original Frame View"></div>
+<div class="hotspot" data-index="7" data-title="The Range Slider" data-explanation="selects the time range in the video to which the selected filter will be applied." style="left:19.9367%; top:63.2011%; width:78.2098%; height:2.7360%;" title="The Range Slider"></div>
+<div class="hotspot" data-index="8" data-title="The Color Temperature Slider" data-explanation="adjusts the color temperature of the applied filter." style="left:46.3382%; top:72.9138%; width:25.4069%; height:2.1888%;" title="The Color Temperature Slider"></div>
+<div class="hotspot" data-index="9" data-title="The Color Tint Slider" data-explanation="adjusts the tint of the applied filter." style="left:46.3382%; top:76.7442%; width:25.4069%; height:2.1888%;" title="The Color Tint Slider"></div>
+<div class="hotspot" data-index="10" data-title="The Gamma Slider" data-explanation="adjusts the gamma (mid-tone lift) of the applied filter." style="left:46.3382%; top:80.5746%; width:25.4069%; height:2.1888%;" title="The Gamma Slider"></div>
+<div class="hotspot" data-index="11" data-title="The Highlight Protection Slider" data-explanation="adjusts the highlight protection of the applied filter." style="left:46.3382%; top:84.4049%; width:25.4069%; height:2.1888%;" title="The Highlight Protection Slider"></div>
+<div class="hotspot" data-index="12" data-title="The Shadow Lift Slider" data-explanation="adjusts the shadow lift of the applied filter." style="left:46.3382%; top:88.2353%; width:25.4069%; height:2.1888%;" title="The Shadow Lift Slider"></div>
+<div class="hotspot" data-index="13" data-title="The Preview button" data-explanation="opens a window that plays a preview of the applied filter." style="left:78.5714%; top:93.9808%; width:6.5099%; height:3.2832%;" title="The Preview button"></div>
+<div class="hotspot" data-index="14" data-title="The Cancel button" data-explanation="discards the changes you made and quits the Video Filter Editor." style="left:86.1664%; top:93.9808%; width:5.9675%; height:3.2832%;" title="The Cancel button"></div>
+<div class="hotspot" data-index="15" data-title="The Apply/Update button" data-explanation="saves any changes you made and quits the Video Filter Editor." style="left:92.8571%; top:93.9808%; width:5.3345%; height:3.2832%;" title="The Apply/Update button"></div>
+</div>
+<div class="caption"><span class="title" id="capTitle"></span> <span id="capExplanation"></span></div>
+<script>
+(function(){
+  var hs = document.querySelectorAll('.hotspot');
+  var ct = document.getElementById('capTitle');
+  var ce = document.getElementById('capExplanation');
+  var active = null;
+  function show(h){ if (active) active.classList.remove('active'); active = h; if (h) h.classList.add('active'); ct.textContent = h ? h.getAttribute('data-title') : ''; ce.textContent = h ? h.getAttribute('data-explanation') : ''; }
+  hs.forEach(function(h){ h.addEventListener('mouseenter', function(){ show(h); }); h.addEventListener('click', function(){ show(h); }); });
+  if (hs.length > 0) show(hs[0]);
+})();
+</script>
+</body>
+</html>
