@@ -1,0 +1,73 @@
+{
+  "compositeWidth" : 1087,
+  "windowRect" : {
+    "y" : 0,
+    "x" : 0,
+    "width" : 0,
+    "height" : 0
+  },
+  "items" : [
+    {
+      "height" : 600,
+      "x" : 0,
+      "y" : 0,
+      "width" : 1087,
+      "isSimulated" : false,
+      "explanation" : "improves the route accuracy between two waypoints.",
+      "flagDoNotFill" : false,
+      "name" : "The Trackpoint Interpolation Editor"
+    },
+    {
+      "height" : 16,
+      "x" : 438,
+      "y" : 36,
+      "width" : 211.5,
+      "isSimulated" : false,
+      "explanation" : "shows the video and trackpoint time interval you have selected.",
+      "flagDoNotFill" : false,
+      "name" : "The Time Range Label"
+    },
+    {
+      "height" : 345,
+      "x" : 10,
+      "y" : 65,
+      "width" : 1067,
+      "isSimulated" : false,
+      "explanation" : "shows the existing route, the selected segment, and the expected interpolation.",
+      "flagDoNotFill" : false,
+      "name" : "The Map View"
+    },
+    {
+      "height" : 24,
+      "x" : 420.5,
+      "y" : 506,
+      "width" : 292,
+      "isSimulated" : false,
+      "explanation" : "chooses between Bicycle and Automobile routing using Apple Maps, or plain linear interpolation.",
+      "flagDoNotFill" : false,
+      "name" : "The Interpolation Type Control"
+    },
+    {
+      "height" : 24,
+      "x" : 420.5,
+      "y" : 506,
+      "width" : 292,
+      "isSimulated" : false,
+      "explanation" : "chooses between Bicycle and Automobile routing using Apple Maps, or plain linear interpolation.",
+      "flagDoNotFill" : false,
+      "name" : "The Interpolation Type Control"
+    },
+    {
+      "height" : 24,
+      "x" : 1008,
+      "y" : 561,
+      "width" : 59,
+      "isSimulated" : false,
+      "explanation" : "inserts the interpolated trackpoints into your route.",
+      "flagDoNotFill" : false,
+      "name" : "The Apply Button"
+    }
+  ],
+  "title" : "The Interpolation Editor",
+  "compositeHeight" : 600
+}

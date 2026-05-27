@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>The Title Editor</title>
+<link rel="stylesheet" href="../tutorial.css">
+</head>
+<body>
+<a class="home" href="../index.html" title="Home"><img src="../home-icon.png" alt="Home"></a>
+<h1>The Title Editor</h1>
+<p>This editor manages titles and subtitles inserted over video segments.</p>
+<p>You can adjust placement, font name, style, size, and color, and see a preview of each title you apply.</p>
+<p>Move your pointer over the images below to see feature explanations.</p>
+<div class="tutorial" id="tutorial" style="aspect-ratio: 1100 / 522; max-width: 1100px;">
+<img src="screenshot.png" alt="Tutorial screenshot">
+<div class="hotspot topmost" id="item-0" data-index="0" data-title="The Title Editor" data-explanation="inserts and formats text into segments of the video." style="left:0.0000%; top:0.0000%; width:100.0000%; height:100.0000%;" title="The Title Editor"></div>
+<div class="hotspot" id="item-1" data-index="1" data-title="The Range Label" data-explanation="shows the start, finish and length of the video segment to which the title will be applied." style="left:41.0909%; top:6.8966%; width:17.8182%; height:3.0651%;" title="The Range Label"></div>
+<div class="hotspot" id="item-2" data-index="2" data-title="The Table View" data-explanation="lists the titles you have applied to the video." style="left:1.0000%; top:18.3908%; width:16.8182%; height:68.7739%;" title="The Table View"></div>
+<div class="hotspot" id="item-3" data-index="3" data-title="The Delete Button" data-explanation="deletes the selected title." style="left:0.9091%; top:89.8467%; width:8.4091%; height:6.5134%;" title="The Delete Button"></div>
+<div class="hotspot" id="item-4" data-index="4" data-title="The Add Button" data-explanation="adds a new title to the list." style="left:9.5000%; top:89.8467%; width:8.4091%; height:6.5134%;" title="The Add Button"></div>
+<div class="hotspot" id="item-5" data-index="5" data-title="The Frame Preview" data-explanation="shows the first, middle, and last video frames to which the title will be applied." style="left:19.7727%; top:12.8352%; width:78.6364%; height:30.6513%;" title="The Frame Preview"></div>
+<div class="hotspot" id="item-6" data-index="6" data-title="The Range Slider" data-explanation="selects the time range in the video to which the selected title will be applied." style="left:19.0909%; top:45.0192%; width:80.0000%; height:3.8314%;" title="The Range Slider"></div>
+<div class="hotspot" id="item-7" data-index="7" data-title="The Title" data-explanation="shows the title that will be applied. Click to edit." style="left:24.0909%; top:53.2567%; width:46.9091%; height:4.5977%;" title="The Title"></div>
+<div class="hotspot" id="item-8" data-index="8" data-title="The Subtitle" data-explanation="shows the subtitle that will be applied. Click to edit." style="left:24.0909%; top:59.7701%; width:46.9091%; height:4.5977%;" title="The Subtitle"></div>
+<div class="hotspot" id="item-9" data-index="9" data-title="The Text Placement Control" data-explanation="positions the title text in the video frame. Click to select the desired position." style="left:40.2727%; top:68.9655%; width:14.5455%; height:17.2414%;" title="The Text Placement Control"></div>
+<div class="hotspot" id="item-10" data-index="10" data-title="The Font Controls" data-explanation="set the font family, style, size and color that will be applied." style="left:75.9091%; top:52.1073%; width:23.0909%; height:33.5249%;" title="The Font Controls"></div>
+<div class="hotspot" id="item-11" data-index="11" data-title="The Preview button" data-explanation="opens a window that plays a preview of the selected title." style="left:77.5909%; top:91.5709%; width:6.5455%; height:4.5977%;" title="The Preview button"></div>
+<div class="hotspot" id="item-12" data-index="12" data-title="The Cancel button" data-explanation="discards the changes you made and quits the Title Editor." style="left:85.2273%; top:91.5709%; width:6.0000%; height:4.5977%;" title="The Cancel button"></div>
+<div class="hotspot" id="item-13" data-index="13" data-title="The Apply/Update button" data-explanation="saves any changes you made and quits the Title Editor." style="left:91.9545%; top:91.5709%; width:6.2273%; height:4.5977%;" title="The Apply/Update button"></div>
+</div>
+<div class="caption"><span class="title" id="capTitle"></span> <span id="capExplanation"></span></div>
+<script>
+(function(){
+  var hs = document.querySelectorAll('.hotspot');
+  var ct = document.getElementById('capTitle');
+  var ce = document.getElementById('capExplanation');
+  var active = null;
+  function show(h){ if (active) active.classList.remove('active'); active = h; if (h) h.classList.add('active'); ct.textContent = h ? h.getAttribute('data-title') : ''; ce.textContent = h ? h.getAttribute('data-explanation') : ''; }
+  hs.forEach(function(h){ h.addEventListener('mouseenter', function(){ show(h); }); h.addEventListener('click', function(){ show(h); }); });
+  var initial = null;
+  if (location.hash && location.hash.length > 1) { initial = document.getElementById(location.hash.substring(1)); if (initial && !initial.classList.contains('hotspot')) initial = null; }
+  if (!initial && hs.length > 0) initial = hs[0];
+  if (initial) show(initial);
+})();
+</script>
+</body>
+</html>

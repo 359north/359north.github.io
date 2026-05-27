@@ -1,0 +1,123 @@
+{
+  "compositeWidth" : 1092.5,
+  "windowRect" : {
+    "y" : 0,
+    "x" : 0,
+    "width" : 0,
+    "height" : 0
+  },
+  "items" : [
+    {
+      "height" : 540,
+      "x" : 0,
+      "y" : 0,
+      "width" : 1092.5,
+      "isSimulated" : false,
+      "explanation" : "raises or lowers video and trackpoint speeds for selected segments.",
+      "flagDoNotFill" : false,
+      "name" : "The Speed Editor"
+    },
+    {
+      "height" : 16,
+      "x" : 403.5,
+      "y" : 36,
+      "width" : 285,
+      "isSimulated" : false,
+      "explanation" : "shows the start, finish and length of the video segment to which the speed adjustment will be applied.",
+      "flagDoNotFill" : false,
+      "name" : "The Range Label"
+    },
+    {
+      "height" : 383,
+      "x" : 21,
+      "y" : 96,
+      "width" : 185,
+      "isSimulated" : false,
+      "explanation" : "lists the speed adjustments you have applied.",
+      "flagDoNotFill" : false,
+      "name" : "The Table View"
+    },
+    {
+      "height" : 34,
+      "x" : 20,
+      "y" : 487,
+      "width" : 93.5,
+      "isSimulated" : false,
+      "explanation" : "deletes the selected speed adjustment.",
+      "flagDoNotFill" : false,
+      "name" : "The Delete Button"
+    },
+    {
+      "height" : 34,
+      "x" : 104.5,
+      "y" : 487,
+      "width" : 93.5,
+      "isSimulated" : false,
+      "explanation" : "adds a new speed adjustment to the list.",
+      "flagDoNotFill" : false,
+      "name" : "The Add Button"
+    },
+    {
+      "height" : 160,
+      "x" : 210,
+      "y" : 85,
+      "width" : 865.5,
+      "isSimulated" : false,
+      "explanation" : "shows the first, middle, and last video frames to which the speed adjustment will be applied.",
+      "flagDoNotFill" : false,
+      "name" : "The Frame Preview"
+    },
+    {
+      "height" : 140,
+      "x" : 210,
+      "y" : 251,
+      "width" : 865.5,
+      "isSimulated" : false,
+      "explanation" : "shows how your route changes elevation. Colors signal the gradient of the slope. Click to select a point along the route. Shift-click to select a range from the current selected point.",
+      "flagDoNotFill" : false,
+      "name" : "The Elevation Chart"
+    },
+    {
+      "height" : 24,
+      "x" : 471,
+      "y" : 401,
+      "width" : 181,
+      "isSimulated" : false,
+      "explanation" : "sets whether the speed will be adjusted up or down.",
+      "flagDoNotFill" : false,
+      "name" : "The Direction Control"
+    },
+    {
+      "height" : 24,
+      "x" : 471,
+      "y" : 401,
+      "width" : 181,
+      "isSimulated" : false,
+      "explanation" : "sets the multiple by which speed will be adjusted. A 2x adjustment down will slow 120 fps video to 60 fps video, with a corresponding decrease in the trackpoints for the selected time range.",
+      "flagDoNotFill" : false,
+      "name" : "The Factor Control"
+    },
+    {
+      "height" : 24,
+      "x" : 939.5,
+      "y" : 496,
+      "width" : 66,
+      "isSimulated" : false,
+      "explanation" : "discards the changes you made and quits the Speed Editor.",
+      "flagDoNotFill" : false,
+      "name" : "The Cancel button"
+    },
+    {
+      "height" : 24,
+      "x" : 1013.5,
+      "y" : 496,
+      "width" : 59,
+      "isSimulated" : false,
+      "explanation" : "saves any changes you made and quits the Speed Editor.",
+      "flagDoNotFill" : false,
+      "name" : "The Apply\/Update button"
+    }
+  ],
+  "title" : "The Speed Editor",
+  "compositeHeight" : 540
+}
