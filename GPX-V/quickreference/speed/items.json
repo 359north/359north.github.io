@@ -20,12 +20,12 @@
       "name" : "The Speed Editor"
     },
     {
-      "x" : 401.5,
+      "x" : 402.5,
       "localizedExplanation" : "shows the start, finish and length of the video segment to which the speed adjustment will be applied.",
       "localizedName" : "The Range Label",
       "y" : 36,
       "height" : 16,
-      "width" : 289,
+      "width" : 287.5,
       "isSimulated" : false,
       "explanation" : "shows the start, finish and length of the video segment to which the speed adjustment will be applied.",
       "flagDoNotFill" : false,

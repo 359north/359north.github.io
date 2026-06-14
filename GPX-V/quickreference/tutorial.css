@@ -1,6 +1,7 @@
 :root { color-scheme: light dark; --bg: #ffffff; --bg-start: #ffffff; --bg-end: #d0e9fd; --text: #1d1d1f; --muted: #6e6e73; --link: #0066cc; --card-bg: #ffffff; --card-border: #e5e5ea; --card-hover-bg: #f5f5f7; --card-hover-border: #d2d2d7; }
 @media (prefers-color-scheme: dark) { :root { --bg: #1c1c1e; --bg-start: #1c1c1e; --bg-end: #0e2440; --text: #f5f5f7; --muted: #aeaeb2; --link: #0a84ff; --card-bg: #2c2c2e; --card-border: #3a3a3c; --card-hover-bg: #38383a; --card-hover-border: #48484a; } }
-body { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialiased; font-size: 17px; line-height: 1.5; font-weight: 400; max-width: 1440px; margin: 0 auto; padding: 24px; background: var(--bg); color: var(--text); }
+html, body { margin: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialiased; font-size: 17px; line-height: 1.5; font-weight: 400; padding: 24px; min-height: 100vh; color: var(--text); background-image: linear-gradient(var(--bg-start), var(--bg-end)); background-repeat: no-repeat; background-size: cover; }
 h1 { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif; font-size: 28pt; font-weight: 480; letter-spacing: -0.02em; line-height: 1.15; margin: 8px 0 8px; color: var(--text); text-align: center; }
 p { font-weight: 400; text-align: center;}
 .tutorial { position: relative; display: block; width: 100%; max-width: 1440px; margin: 0 auto; }

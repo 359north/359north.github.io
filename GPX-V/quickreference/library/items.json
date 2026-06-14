@@ -201,13 +201,13 @@
     },
     {
       "x" : 266.113037109375,
-      "localizedExplanation" : "shows Show Toolbar, Customize Toolbar…, Show Sidebar, Enter Full Screen",
+      "localizedExplanation" : "shows Show Tab Bar, Show All Tabs, Show Toolbar, Customize Toolbar…, Show Sidebar",
       "localizedName" : "The View Menu",
       "y" : 0,
       "height" : 24,
       "width" : 41.1611328125,
       "isSimulated" : true,
-      "explanation" : "shows Show Toolbar, Customize Toolbar…, Show Sidebar, Enter Full Screen",
+      "explanation" : "shows Show Tab Bar, Show All Tabs, Show Toolbar, Customize Toolbar…, Show Sidebar",
       "flagDoNotFill" : false,
       "name" : "The View Menu"
     },
