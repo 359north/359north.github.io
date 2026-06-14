@@ -1,0 +1,73 @@
+{
+  "compositeWidth" : 1153,
+  "windowRect" : {
+    "y" : 0,
+    "x" : 0,
+    "width" : 0,
+    "height" : 0
+  },
+  "items" : [
+    {
+      "x" : 0,
+      "localizedExplanation" : "improves the route accuracy between two waypoints.",
+      "localizedName" : "The Trackpoint Interpolation Editor",
+      "y" : 0,
+      "height" : 600,
+      "width" : 1153,
+      "isSimulated" : false,
+      "explanation" : "improves the route accuracy between two waypoints.",
+      "flagDoNotFill" : false,
+      "name" : "The Trackpoint Interpolation Editor"
+    },
+    {
+      "x" : 468,
+      "localizedExplanation" : "shows the video and trackpoint time interval you have selected.",
+      "localizedName" : "The Time Range Label",
+      "y" : 36,
+      "height" : 16,
+      "width" : 217.5,
+      "isSimulated" : false,
+      "explanation" : "shows the video and trackpoint time interval you have selected.",
+      "flagDoNotFill" : false,
+      "name" : "The Time Range Label"
+    },
+    {
+      "x" : 10,
+      "localizedExplanation" : "shows the existing route, the selected segment, and the expected interpolation.",
+      "localizedName" : "The Map View",
+      "y" : 65,
+      "height" : 343,
+      "width" : 1133,
+      "isSimulated" : false,
+      "explanation" : "shows the existing route, the selected segment, and the expected interpolation.",
+      "flagDoNotFill" : false,
+      "name" : "The Map View"
+    },
+    {
+      "x" : 431.5,
+      "localizedExplanation" : "chooses between Bicycle, Automobile, Walking or Any routing using Apple Maps.",
+      "localizedName" : "The Interpolation Type Control",
+      "y" : 504,
+      "height" : 24,
+      "width" : 336,
+      "isSimulated" : false,
+      "explanation" : "chooses between Bicycle, Automobile, Walking or Any routing using Apple Maps.",
+      "flagDoNotFill" : false,
+      "name" : "The Interpolation Type Control"
+    },
+    {
+      "x" : 1074,
+      "localizedExplanation" : "inserts the interpolated trackpoints into your route.",
+      "localizedName" : "The Apply Button",
+      "y" : 561,
+      "height" : 24,
+      "width" : 59,
+      "isSimulated" : false,
+      "explanation" : "inserts the interpolated trackpoints into your route.",
+      "flagDoNotFill" : false,
+      "name" : "The Apply Button"
+    }
+  ],
+  "title" : "The Interpolation Editor",
+  "compositeHeight" : 600
+}
