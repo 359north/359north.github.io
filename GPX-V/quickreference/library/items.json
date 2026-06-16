@@ -4,7 +4,7 @@
     "y" : 72,
     "x" : 20,
     "width" : 1100,
-    "height" : 500
+    "height" : 464
   },
   "items" : [
     {
@@ -12,7 +12,7 @@
       "localizedExplanation" : "displays all the projects you have created, across devices and volume.",
       "localizedName" : "The GPX-V Library Window",
       "y" : 72,
-      "height" : 500,
+      "height" : 464,
       "width" : 1100,
       "isSimulated" : false,
       "explanation" : "displays all the projects you have created, across devices and volume.",
@@ -60,7 +60,7 @@
       "localizedExplanation" : "displays projects and their associated data items.",
       "localizedName" : "The Project Table",
       "y" : 152,
-      "height" : 365,
+      "height" : 329,
       "width" : 1058,
       "isSimulated" : false,
       "explanation" : "displays projects and their associated data items.",
@@ -71,7 +71,7 @@
       "x" : 47,
       "localizedExplanation" : "shows additional information as needed.",
       "localizedName" : "The Notes Label",
-      "y" : 532,
+      "y" : 496,
       "height" : 16,
       "width" : 145.5,
       "isSimulated" : false,
@@ -83,7 +83,7 @@
       "x" : 825.5,
       "localizedExplanation" : "clears the project list. For DEBUG purposes.",
       "localizedName" : "The Clear Button",
-      "y" : 528,
+      "y" : 492,
       "height" : 24,
       "width" : 56,
       "isSimulated" : false,
@@ -95,7 +95,7 @@
       "x" : 893.5,
       "localizedExplanation" : "searches for projects in the folder you select.",
       "localizedName" : "The Scan Button",
-      "y" : 528,
+      "y" : 492,
       "height" : 24,
       "width" : 54.5,
       "isSimulated" : false,
@@ -107,7 +107,7 @@
       "x" : 960,
       "localizedExplanation" : "opens the selected project. You can also double-click the project in the table.",
       "localizedName" : "The Open Button",
-      "y" : 528,
+      "y" : 492,
       "height" : 24,
       "width" : 57,
       "isSimulated" : false,
@@ -119,7 +119,7 @@
       "x" : 1029,
       "localizedExplanation" : "updates the list of projects.",
       "localizedName" : "The Refresh Button",
-      "y" : 528,
+      "y" : 492,
       "height" : 24,
       "width" : 71,
       "isSimulated" : false,
@@ -237,5 +237,5 @@
     }
   ],
   "title" : "The GPX-V Library",
-  "compositeHeight" : 592
+  "compositeHeight" : 556
 }
