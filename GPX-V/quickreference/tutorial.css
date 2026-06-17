@@ -36,7 +36,7 @@ a.up:hover { text-decoration: underline; }
 @media (max-width: 899px) { .tutorials-list { grid-template-columns: minmax(0, 1fr); } }
 a.tutorial-card { display: flex; align-items: center; gap: 20px; padding: 12px 16px; background: var(--card-bg); border: 1px solid var(--card-border); border-radius: 10px; text-decoration: none; color: inherit; transition: background-color 0.15s, border-color 0.15s; }
 a.tutorial-card:hover { background-color: var(--card-hover-bg); border-color: var(--card-hover-border); }
-.tutorial-card .thumb { width: 240px; height: 150px; object-fit: cover; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); flex-shrink: 0; background: var(--card-bg); }
+.tutorial-card .thumb { width: 240px; height: 150px; object-fit: contain; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); flex-shrink: 0; background: var(--card-bg); }
 .tutorial-card .card-title { font-size: 15pt; font-weight: 500; letter-spacing: -0.01em; color: var(--link); min-width: 0; }
 a.items-index-link { display: block; width: fit-content; margin: 0 auto 18px; padding: 8px 14px; border: 1px solid var(--card-border); border-radius: 8px; text-decoration: none; color: var(--link); font-size: 14pt; font-weight: 500; background: var(--card-bg); transition: background-color 0.15s, border-color 0.15s; }
 a.items-index-link:hover { background-color: var(--card-hover-bg); border-color: var(--card-hover-border); }
