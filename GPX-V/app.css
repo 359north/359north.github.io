@@ -25,3 +25,33 @@ a.app-card:hover { background-color: var(--card-hover-bg); border-color: var(--c
 .app-card .text { display: flex; flex-direction: column; gap: 6px; flex: 1; }
 .app-card .card-title { font-size: 18pt; font-weight: 500; letter-spacing: -0.01em; color: var(--link); }
 .app-card .card-description { font-size: 13pt; font-weight: 400; color: var(--muted); }
+
+a.testflight-button,
+a.testflight-button:link,
+a.testflight-button:visited,
+a.testflight-button:hover,
+a.testflight-button:focus,
+a.testflight-button:active {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.625rem;
+	padding: 0.5rem 1.25rem 0.5rem 0.625rem;
+	background-color: #007aff;
+	color: #ffffff;
+	font-size: 1rem;
+	font-weight: 600;
+	text-decoration: none;
+	border-radius: 10px;
+	transition: background-color 0.15s ease;
+}
+a.testflight-button:hover,
+a.testflight-button:focus {
+	background-color: #0062cc;
+	color: #ffffff;
+}
+.testflight-button-icon {
+	height: 3em;
+	width: 3em;
+	border-radius: 8px;
+	display: block;
+}
