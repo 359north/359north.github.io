@@ -20,12 +20,12 @@
       "name" : "The Trackpoint Interpolation Editor"
     },
     {
-      "x" : 444,
+      "x" : 442.5,
       "localizedExplanation" : "shows the video and trackpoint time interval you have selected.",
       "localizedName" : "The Time Range Label",
       "y" : 36,
       "height" : 16,
-      "width" : 200,
+      "width" : 203,
       "isSimulated" : false,
       "explanation" : "shows the video and trackpoint time interval you have selected.",
       "flagDoNotFill" : false,

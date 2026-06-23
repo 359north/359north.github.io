@@ -20,12 +20,12 @@
       "name" : "The Video Filter Editor"
     },
     {
-      "x" : 458.5,
+      "x" : 453.5,
       "localizedExplanation" : "shows the start, finish and length of the video segment to which the filter will be applied.",
       "localizedName" : "The Range Label",
       "y" : 46,
       "height" : 16,
-      "width" : 189.5,
+      "width" : 199.5,
       "isSimulated" : false,
       "explanation" : "shows the start, finish and length of the video segment to which the filter will be applied.",
       "flagDoNotFill" : false,

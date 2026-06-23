@@ -225,13 +225,13 @@
     },
     {
       "x" : 367.675048828125,
-      "localizedExplanation" : "shows GPX-V Help, GPX-V Quick Reference",
+      "localizedExplanation" : "shows Welcome to GPX-V…, GPX-V Help, GPX-V Quick Reference",
       "localizedName" : "The Help Menu",
       "y" : 0,
       "height" : 24,
       "width" : 39.9931640625,
       "isSimulated" : true,
-      "explanation" : "shows GPX-V Help, GPX-V Quick Reference",
+      "explanation" : "shows Welcome to GPX-V…, GPX-V Help, GPX-V Quick Reference",
       "flagDoNotFill" : false,
       "name" : "The Help Menu"
     }

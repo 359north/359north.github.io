@@ -25,7 +25,7 @@
       "localizedName" : "The Range Label",
       "y" : 36,
       "height" : 16,
-      "width" : 189.5,
+      "width" : 189,
       "isSimulated" : false,
       "explanation" : "shows the start, finish and length of the video segment to which the title will be applied.",
       "flagDoNotFill" : false,
