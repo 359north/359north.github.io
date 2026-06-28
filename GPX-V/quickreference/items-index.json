@@ -1,0 +1,845 @@
+{
+  "title" : "Index for GPX-V Quick Reference",
+  "items" : [
+    {
+      "explanation" : "perform available actions. Grouped by video, video and GPS, and GPS.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Action Buttons",
+      "itemIndex" : 17,
+      "relURL" : "main\/index.html#item-17"
+    },
+    {
+      "explanation" : "adds a trackpoint at the  location on the map at the time specified in video",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Add Trackpoint Button",
+      "itemIndex" : 30,
+      "relURL" : "main\/index.html#item-30"
+    },
+    {
+      "explanation" : "deletes the selected trackpoints",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Delete Trackpoints Button",
+      "itemIndex" : 31,
+      "relURL" : "main\/index.html#item-31"
+    },
+    {
+      "explanation" : "controls the direction of immediate synchronization of video and trackpoints",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Directional Synch Menu",
+      "itemIndex" : 28,
+      "relURL" : "main\/index.html#item-28"
+    },
+    {
+      "explanation" : "Adjusts elevations and gradients",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Elevation Button",
+      "itemIndex" : 34,
+      "relURL" : "main\/index.html#item-34"
+    },
+    {
+      "explanation" : "shows route elevation and slope gradient. Click or ⇧-click to select trackpoints.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Elevation Chart",
+      "itemIndex" : 12,
+      "relURL" : "main\/index.html#item-12"
+    },
+    {
+      "explanation" : "exports a synchronized GPX file",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Export GPX Button",
+      "itemIndex" : 35,
+      "relURL" : "main\/index.html#item-35"
+    },
+    {
+      "explanation" : "exports a syncrhonized .mp4 file",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Export Video Button",
+      "itemIndex" : 25,
+      "relURL" : "main\/index.html#item-25"
+    },
+    {
+      "explanation" : "displays video, map, elevation chart, trackpoint table, and document contents.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "GPX-V Document Window",
+      "itemIndex" : 0,
+      "relURL" : "main\/index.html#item-0"
+    },
+    {
+      "explanation" : "opens this tutorial.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Help Button",
+      "itemIndex" : 36,
+      "relURL" : "main\/index.html#item-36"
+    },
+    {
+      "explanation" : "imports a GPX file",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Import GPX Button",
+      "itemIndex" : 29,
+      "relURL" : "main\/index.html#item-29"
+    },
+    {
+      "explanation" : "imports one or more .mp4 video files",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Import Video Button",
+      "itemIndex" : 18,
+      "relURL" : "main\/index.html#item-18"
+    },
+    {
+      "explanation" : "shows three classes of available information. Click the one you want to see.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Information Option Control",
+      "itemIndex" : 16,
+      "relURL" : "main\/index.html#item-16"
+    },
+    {
+      "explanation" : "shows the document change history, checks for potential problems, and current project status.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Information View",
+      "itemIndex" : 15,
+      "relURL" : "main\/index.html#item-15"
+    },
+    {
+      "explanation" : "shows applied speed changes, filters, and titles. Click to edit.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Interval Control",
+      "itemIndex" : 3,
+      "relURL" : "main\/index.html#item-3"
+    },
+    {
+      "explanation" : "shows applied speed changes, filters, and titles. Click to edit.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Interval Control",
+      "itemIndex" : 13,
+      "relURL" : "main\/index.html#item-13"
+    },
+    {
+      "explanation" : "switches between traffic and satellite views.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Map Type Control",
+      "itemIndex" : 9,
+      "relURL" : "main\/index.html#item-9"
+    },
+    {
+      "explanation" : "deletes audio tracks",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Remove Audio Button",
+      "itemIndex" : 19,
+      "relURL" : "main\/index.html#item-19"
+    },
+    {
+      "explanation" : "interpolates a route between two selected points",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Route Interpolation Button",
+      "itemIndex" : 33,
+      "relURL" : "main\/index.html#item-33"
+    },
+    {
+      "explanation" : "displays your route.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Route Map",
+      "itemIndex" : 8,
+      "relURL" : "main\/index.html#item-8"
+    },
+    {
+      "explanation" : "deletes selected trackpoints and video",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Segment Delete Button",
+      "itemIndex" : 27,
+      "relURL" : "main\/index.html#item-27"
+    },
+    {
+      "explanation" : "shows the first, middle, and last frames of the selection.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Selected Video Frames",
+      "itemIndex" : 5,
+      "relURL" : "main\/index.html#item-5"
+    },
+    {
+      "explanation" : "controls selected video and trackpoints. Slide, click or ⇧-click to change the selection. Use the buttons at each end to adjust the ends of the range by one second at a time.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Selection Range Slider",
+      "itemIndex" : 7,
+      "relURL" : "main\/index.html#item-7"
+    },
+    {
+      "explanation" : "shares a frame or clip",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Share Video Button",
+      "itemIndex" : 24,
+      "relURL" : "main\/index.html#item-24"
+    },
+    {
+      "explanation" : "opens an editor to apply speed adjustments to video and GPX simultaneously.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Speed Adjustment Button",
+      "itemIndex" : 26,
+      "relURL" : "main\/index.html#item-26"
+    },
+    {
+      "explanation" : "shows your GPX-V subscription status and lets you subscribe, upgrade, or manage your subscription.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Subscription Button",
+      "itemIndex" : 37,
+      "relURL" : "main\/index.html#item-37"
+    },
+    {
+      "explanation" : "moves the selection one second backward.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Tick Backward Button",
+      "itemIndex" : 4,
+      "relURL" : "main\/index.html#item-4"
+    },
+    {
+      "explanation" : "moves the selection one second backward.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Tick Forward Button",
+      "itemIndex" : 6,
+      "relURL" : "main\/index.html#item-6"
+    },
+    {
+      "explanation" : "opens an editor to add text to the video for a selected segment",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Titles Button",
+      "itemIndex" : 23,
+      "relURL" : "main\/index.html#item-23"
+    },
+    {
+      "explanation" : "Edits the selected trackpoints",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Trackpoint Edit Button",
+      "itemIndex" : 32,
+      "relURL" : "main\/index.html#item-32"
+    },
+    {
+      "explanation" : "lists the GPS trackpoints in order. Click a row to select the point, ⇧-click to select a range. Arrow keys work too. ",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Trackpoint Table",
+      "itemIndex" : 14,
+      "relURL" : "main\/index.html#item-14"
+    },
+    {
+      "explanation" : "trims from the start of the video until the first selected trackpoint",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Trim From Start Button",
+      "itemIndex" : 20,
+      "relURL" : "main\/index.html#item-20"
+    },
+    {
+      "explanation" : "trims from the last selected trackpoint until the end of the video",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Trim Until End Button",
+      "itemIndex" : 21,
+      "relURL" : "main\/index.html#item-21"
+    },
+    {
+      "explanation" : "opens an editor to apply image filters to the selected video to compensate for shadows, glare, etc.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Video Filter Button",
+      "itemIndex" : 22,
+      "relURL" : "main\/index.html#item-22"
+    },
+    {
+      "explanation" : "plays the imported and merged video files.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Video Player",
+      "itemIndex" : 2,
+      "relURL" : "main\/index.html#item-2"
+    },
+    {
+      "explanation" : "contains the video player and selection controls.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Video Workspace",
+      "itemIndex" : 1,
+      "relURL" : "main\/index.html#item-1"
+    },
+    {
+      "explanation" : "zooms in as close as possible on the selected trackpoint.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Zoom In Button",
+      "itemIndex" : 11,
+      "relURL" : "main\/index.html#item-11"
+    },
+    {
+      "explanation" : "zooms out to view the entire route.",
+      "section" : "GPX-V Main Window",
+      "folder" : "main",
+      "name" : "Zoom Out Button",
+      "itemIndex" : 10,
+      "relURL" : "main\/index.html#item-10"
+    },
+    {
+      "explanation" : "adds a new title to the list.",
+      "section" : "Title Editor",
+      "folder" : "title",
+      "name" : "Add Button",
+      "itemIndex" : 4,
+      "relURL" : "title\/index.html#item-4"
+    },
+    {
+      "explanation" : "saves any changes you made and quits the Title Editor.",
+      "section" : "Title Editor",
+      "folder" : "title",
+      "name" : "Apply\/Confirm Changes button",
+      "itemIndex" : 13,
+      "relURL" : "title\/index.html#item-13"
+    },
+    {
+      "explanation" : "discards the changes you made and quits the Title Editor.",
+      "section" : "Title Editor",
+      "folder" : "title",
+      "name" : "Cancel button",
+      "itemIndex" : 12,
+      "relURL" : "title\/index.html#item-12"
+    },
+    {
+      "explanation" : "deletes the selected title.",
+      "section" : "Title Editor",
+      "folder" : "title",
+      "name" : "Delete Button",
+      "itemIndex" : 3,
+      "relURL" : "title\/index.html#item-3"
+    },
+    {
+      "explanation" : "set the font family, style, size and color that will be applied.",
+      "section" : "Title Editor",
+      "folder" : "title",
+      "name" : "Font Controls",
+      "itemIndex" : 10,
+      "relURL" : "title\/index.html#item-10"
+    },
+    {
+      "explanation" : "shows the first, middle, and last video frames to which the title will be applied.",
+      "section" : "Title Editor",
+      "folder" : "title",
+      "name" : "Frame Preview",
+      "itemIndex" : 5,
+      "relURL" : "title\/index.html#item-5"
+    },
+    {
+      "explanation" : "opens a window that plays a preview of the selected title.",
+      "section" : "Title Editor",
+      "folder" : "title",
+      "name" : "Preview button",
+      "itemIndex" : 11,
+      "relURL" : "title\/index.html#item-11"
+    },
+    {
+      "explanation" : "shows the start, finish and length of the video segment to which the title will be applied.",
+      "section" : "Title Editor",
+      "folder" : "title",
+      "name" : "Range Label",
+      "itemIndex" : 1,
+      "relURL" : "title\/index.html#item-1"
+    },
+    {
+      "explanation" : "selects the time range in the video to which the selected title will be applied. Slide, click or ⇧-click to change the selection. Use the buttons at each end to adjust the ends of the range by one second at a time.",
+      "section" : "Title Editor",
+      "folder" : "title",
+      "name" : "Selection Range Slider",
+      "itemIndex" : 6,
+      "relURL" : "title\/index.html#item-6"
+    },
+    {
+      "explanation" : "shows the subtitle that will be applied. Click to edit.",
+      "section" : "Title Editor",
+      "folder" : "title",
+      "name" : "Subtitle",
+      "itemIndex" : 8,
+      "relURL" : "title\/index.html#item-8"
+    },
+    {
+      "explanation" : "lists the titles you have applied to the video.",
+      "section" : "Title Editor",
+      "folder" : "title",
+      "name" : "Table View",
+      "itemIndex" : 2,
+      "relURL" : "title\/index.html#item-2"
+    },
+    {
+      "explanation" : "positions the title text in the video frame. Click to select the desired position.",
+      "section" : "Title Editor",
+      "folder" : "title",
+      "name" : "Text Placement Control",
+      "itemIndex" : 9,
+      "relURL" : "title\/index.html#item-9"
+    },
+    {
+      "explanation" : "shows the title that will be applied. Click to edit.",
+      "section" : "Title Editor",
+      "folder" : "title",
+      "name" : "Title",
+      "itemIndex" : 7,
+      "relURL" : "title\/index.html#item-7"
+    },
+    {
+      "explanation" : "inserts and formats text into segments of the video.",
+      "section" : "Title Editor",
+      "folder" : "title",
+      "name" : "Title Editor",
+      "itemIndex" : 0,
+      "relURL" : "title\/index.html#item-0"
+    },
+    {
+      "explanation" : "adds a new filter to the list.",
+      "section" : "Video Filter Editor",
+      "folder" : "videofilter",
+      "name" : "Add Button",
+      "itemIndex" : 4,
+      "relURL" : "videofilter\/index.html#item-4"
+    },
+    {
+      "explanation" : "saves any changes you made and quits the Video Filter Editor.",
+      "section" : "Video Filter Editor",
+      "folder" : "videofilter",
+      "name" : "Apply\/Confirm Changes button",
+      "itemIndex" : 15,
+      "relURL" : "videofilter\/index.html#item-15"
+    },
+    {
+      "explanation" : "discards the changes you made and quits the Video Filter Editor.",
+      "section" : "Video Filter Editor",
+      "folder" : "videofilter",
+      "name" : "Cancel button",
+      "itemIndex" : 14,
+      "relURL" : "videofilter\/index.html#item-14"
+    },
+    {
+      "explanation" : "adjusts the color temperature of the applied filter.",
+      "section" : "Video Filter Editor",
+      "folder" : "videofilter",
+      "name" : "Color Temperature Slider",
+      "itemIndex" : 8,
+      "relURL" : "videofilter\/index.html#item-8"
+    },
+    {
+      "explanation" : "adjusts the tint of the applied filter.",
+      "section" : "Video Filter Editor",
+      "folder" : "videofilter",
+      "name" : "Color Tint Slider",
+      "itemIndex" : 9,
+      "relURL" : "videofilter\/index.html#item-9"
+    },
+    {
+      "explanation" : "deletes the selected filter.",
+      "section" : "Video Filter Editor",
+      "folder" : "videofilter",
+      "name" : "Delete Button",
+      "itemIndex" : 3,
+      "relURL" : "videofilter\/index.html#item-3"
+    },
+    {
+      "explanation" : "adjusts the gamma (mid-tone lift) of the applied filter.",
+      "section" : "Video Filter Editor",
+      "folder" : "videofilter",
+      "name" : "Gamma Slider",
+      "itemIndex" : 10,
+      "relURL" : "videofilter\/index.html#item-10"
+    },
+    {
+      "explanation" : "adjusts the highlight protection of the applied filter.",
+      "section" : "Video Filter Editor",
+      "folder" : "videofilter",
+      "name" : "Highlight Protection Slider",
+      "itemIndex" : 11,
+      "relURL" : "videofilter\/index.html#item-11"
+    },
+    {
+      "explanation" : "shows the first, middle, and last video frames to which the filter will be applied.",
+      "section" : "Video Filter Editor",
+      "folder" : "videofilter",
+      "name" : "Original Frame View",
+      "itemIndex" : 6,
+      "relURL" : "videofilter\/index.html#item-6"
+    },
+    {
+      "explanation" : "opens a window that plays a preview of the applied filter.",
+      "section" : "Video Filter Editor",
+      "folder" : "videofilter",
+      "name" : "Preview button",
+      "itemIndex" : 13,
+      "relURL" : "videofilter\/index.html#item-13"
+    },
+    {
+      "explanation" : "shows the effect of the applied filter on the first, middle, and last video frames.",
+      "section" : "Video Filter Editor",
+      "folder" : "videofilter",
+      "name" : "Preview Frame View",
+      "itemIndex" : 5,
+      "relURL" : "videofilter\/index.html#item-5"
+    },
+    {
+      "explanation" : "shows the start, finish and length of the video segment to which the filter will be applied.",
+      "section" : "Video Filter Editor",
+      "folder" : "videofilter",
+      "name" : "Range Label",
+      "itemIndex" : 1,
+      "relURL" : "videofilter\/index.html#item-1"
+    },
+    {
+      "explanation" : "selects the time range in the video to which the selected filter will be applied. Slide, click or ⇧-click to change the selection. Use the buttons at each end to adjust the ends of the range by one second at a time.",
+      "section" : "Video Filter Editor",
+      "folder" : "videofilter",
+      "name" : "Selection Range Slider",
+      "itemIndex" : 7,
+      "relURL" : "videofilter\/index.html#item-7"
+    },
+    {
+      "explanation" : "adjusts the shadow lift of the applied filter.",
+      "section" : "Video Filter Editor",
+      "folder" : "videofilter",
+      "name" : "Shadow Lift Slider",
+      "itemIndex" : 12,
+      "relURL" : "videofilter\/index.html#item-12"
+    },
+    {
+      "explanation" : "lists the filters you have applied to the video.",
+      "section" : "Video Filter Editor",
+      "folder" : "videofilter",
+      "name" : "Table View",
+      "itemIndex" : 2,
+      "relURL" : "videofilter\/index.html#item-2"
+    },
+    {
+      "explanation" : "defines and applies video filters to segments of the video.",
+      "section" : "Video Filter Editor",
+      "folder" : "videofilter",
+      "name" : "Video Filter Editor",
+      "itemIndex" : 0,
+      "relURL" : "videofilter\/index.html#item-0"
+    },
+    {
+      "explanation" : "inserts the interpolated trackpoints into your route.",
+      "section" : "Interpolation Editor",
+      "folder" : "interpolation",
+      "name" : "Apply Button",
+      "itemIndex" : 4,
+      "relURL" : "interpolation\/index.html#item-4"
+    },
+    {
+      "explanation" : "chooses between Bicycle, Automobile, Walking or Any routing using Apple Maps.",
+      "section" : "Interpolation Editor",
+      "folder" : "interpolation",
+      "name" : "Interpolation Type Control",
+      "itemIndex" : 3,
+      "relURL" : "interpolation\/index.html#item-3"
+    },
+    {
+      "explanation" : "shows the existing route, the selected segment, and the expected interpolation.",
+      "section" : "Interpolation Editor",
+      "folder" : "interpolation",
+      "name" : "Map View",
+      "itemIndex" : 2,
+      "relURL" : "interpolation\/index.html#item-2"
+    },
+    {
+      "explanation" : "shows the video and trackpoint time interval you have selected.",
+      "section" : "Interpolation Editor",
+      "folder" : "interpolation",
+      "name" : "Time Range Label",
+      "itemIndex" : 1,
+      "relURL" : "interpolation\/index.html#item-1"
+    },
+    {
+      "explanation" : "improves the route accuracy between two waypoints.",
+      "section" : "Interpolation Editor",
+      "folder" : "interpolation",
+      "name" : "Trackpoint Interpolation Editor",
+      "itemIndex" : 0,
+      "relURL" : "interpolation\/index.html#item-0"
+    },
+    {
+      "explanation" : "adds a new speed adjustment to the list.",
+      "section" : "Speed Editor",
+      "folder" : "speed",
+      "name" : "Add Button",
+      "itemIndex" : 4,
+      "relURL" : "speed\/index.html#item-4"
+    },
+    {
+      "explanation" : "saves any changes you made and quits the Speed Editor.",
+      "section" : "Speed Editor",
+      "folder" : "speed",
+      "name" : "Apply\/Confirm Changes button",
+      "itemIndex" : 10,
+      "relURL" : "speed\/index.html#item-10"
+    },
+    {
+      "explanation" : "discards the changes you made and quits the Speed Editor.",
+      "section" : "Speed Editor",
+      "folder" : "speed",
+      "name" : "Cancel button",
+      "itemIndex" : 9,
+      "relURL" : "speed\/index.html#item-9"
+    },
+    {
+      "explanation" : "deletes the selected speed adjustment.",
+      "section" : "Speed Editor",
+      "folder" : "speed",
+      "name" : "Delete Button",
+      "itemIndex" : 3,
+      "relURL" : "speed\/index.html#item-3"
+    },
+    {
+      "explanation" : "sets whether the speed will be adjusted up or down.",
+      "section" : "Speed Editor",
+      "folder" : "speed",
+      "name" : "Direction Control",
+      "itemIndex" : 7,
+      "relURL" : "speed\/index.html#item-7"
+    },
+    {
+      "explanation" : "shows how your route changes elevation. Colors signal the gradient of the slope. Click to select a trackpoint, ⇧-click to select a range.",
+      "section" : "Speed Editor",
+      "folder" : "speed",
+      "name" : "Elevation Chart",
+      "itemIndex" : 6,
+      "relURL" : "speed\/index.html#item-6"
+    },
+    {
+      "explanation" : "sets the factor for speed adjustment. 2x down slows 120 fps video to 60 fps video, adjusting trackpoint times to match.",
+      "section" : "Speed Editor",
+      "folder" : "speed",
+      "name" : "Factor Control",
+      "itemIndex" : 8,
+      "relURL" : "speed\/index.html#item-8"
+    },
+    {
+      "explanation" : "shows the first, middle, and last video frames to which the speed adjustment will be applied.",
+      "section" : "Speed Editor",
+      "folder" : "speed",
+      "name" : "Frame Preview",
+      "itemIndex" : 5,
+      "relURL" : "speed\/index.html#item-5"
+    },
+    {
+      "explanation" : "shows the start, finish and length of the video segment to which the speed adjustment will be applied.",
+      "section" : "Speed Editor",
+      "folder" : "speed",
+      "name" : "Range Label",
+      "itemIndex" : 1,
+      "relURL" : "speed\/index.html#item-1"
+    },
+    {
+      "explanation" : "raises or lowers video and trackpoint speeds for selected segments.",
+      "section" : "Speed Editor",
+      "folder" : "speed",
+      "name" : "Speed Editor",
+      "itemIndex" : 0,
+      "relURL" : "speed\/index.html#item-0"
+    },
+    {
+      "explanation" : "lists the speed adjustments you have applied.",
+      "section" : "Speed Editor",
+      "folder" : "speed",
+      "name" : "Table View",
+      "itemIndex" : 2,
+      "relURL" : "speed\/index.html#item-2"
+    },
+    {
+      "explanation" : "clears the project list. For DEBUG purposes.",
+      "section" : "GPX-V Library",
+      "folder" : "library",
+      "name" : "Clear Button",
+      "itemIndex" : 6,
+      "relURL" : "library\/index.html#item-6"
+    },
+    {
+      "explanation" : "displays all the projects you have created, across devices and volume.",
+      "section" : "GPX-V Library",
+      "folder" : "library",
+      "name" : "GPX-V Library Window",
+      "itemIndex" : 0,
+      "relURL" : "library\/index.html#item-0"
+    },
+    {
+      "explanation" : "displays the total number of your projects, source video storage used, and distance covered.",
+      "section" : "GPX-V Library",
+      "folder" : "library",
+      "name" : "Library Summary",
+      "itemIndex" : 1,
+      "relURL" : "library\/index.html#item-1"
+    },
+    {
+      "explanation" : "controls the devices from which you are displaying GPX-V projects in the Project Table.",
+      "section" : "GPX-V Library",
+      "folder" : "library",
+      "name" : "Machine Popup",
+      "itemIndex" : 2,
+      "relURL" : "library\/index.html#item-2"
+    },
+    {
+      "explanation" : "shows additional information as needed.",
+      "section" : "GPX-V Library",
+      "folder" : "library",
+      "name" : "Notes Label",
+      "itemIndex" : 5,
+      "relURL" : "library\/index.html#item-5"
+    },
+    {
+      "explanation" : "opens the selected project. You can also double-click the project in the table.",
+      "section" : "GPX-V Library",
+      "folder" : "library",
+      "name" : "Open Button",
+      "itemIndex" : 8,
+      "relURL" : "library\/index.html#item-8"
+    },
+    {
+      "explanation" : "displays projects and their associated data items.",
+      "section" : "GPX-V Library",
+      "folder" : "library",
+      "name" : "Project Table",
+      "itemIndex" : 4,
+      "relURL" : "library\/index.html#item-4"
+    },
+    {
+      "explanation" : "updates the list of projects.",
+      "section" : "GPX-V Library",
+      "folder" : "library",
+      "name" : "Refresh Button",
+      "itemIndex" : 9,
+      "relURL" : "library\/index.html#item-9"
+    },
+    {
+      "explanation" : "searches for projects in the folder you select.",
+      "section" : "GPX-V Library",
+      "folder" : "library",
+      "name" : "Scan Button",
+      "itemIndex" : 7,
+      "relURL" : "library\/index.html#item-7"
+    },
+    {
+      "explanation" : "controls the volumes from which you are displaying GPX-V projects in the Project Table.",
+      "section" : "GPX-V Library",
+      "folder" : "library",
+      "name" : "Volume Popup",
+      "itemIndex" : 3,
+      "relURL" : "library\/index.html#item-3"
+    },
+    {
+      "explanation" : "shows About This Mac, System Settings..., Location, App Store, Recent Items, Sleep, Restart..., Shutdown..., Lock Screen, Log Out...",
+      "section" : "GPX-V Menus",
+      "folder" : "library",
+      "name" : "Apple Menu",
+      "itemIndex" : 10,
+      "relURL" : "library\/index.html#item-10"
+    },
+    {
+      "explanation" : "shows Undo, Redo, Cut, Copy Selected Rows, Paste",
+      "section" : "GPX-V Menus",
+      "folder" : "library",
+      "name" : "Edit Menu",
+      "itemIndex" : 13,
+      "relURL" : "library\/index.html#item-13"
+    },
+    {
+      "explanation" : "shows New, Open…, Open Recent, Import GPX..., Import Video...",
+      "section" : "GPX-V Menus",
+      "folder" : "library",
+      "name" : "File Menu",
+      "itemIndex" : 12,
+      "relURL" : "library\/index.html#item-12"
+    },
+    {
+      "explanation" : "shows Font, Text",
+      "section" : "GPX-V Menus",
+      "folder" : "library",
+      "name" : "Format Menu",
+      "itemIndex" : 14,
+      "relURL" : "library\/index.html#item-14"
+    },
+    {
+      "explanation" : "shows About GPX-V, Settings..., Services, Hide GPX-V, Hide Others",
+      "section" : "GPX-V Menus",
+      "folder" : "library",
+      "name" : "GPX-V Menu",
+      "itemIndex" : 11,
+      "relURL" : "library\/index.html#item-11"
+    },
+    {
+      "explanation" : "shows NSMenuItem, GPX-V Help, GPX-V Quick Reference, Welcome to GPX-V...",
+      "section" : "GPX-V Menus",
+      "folder" : "library",
+      "name" : "Help Menu",
+      "itemIndex" : 18,
+      "relURL" : "library\/index.html#item-18"
+    },
+    {
+      "explanation" : "shows Welcome to GPX-V…, GPX-V Help, GPX-V Quick Reference",
+      "section" : "GPX-V Menus",
+      "folder" : "main",
+      "name" : "Help Menu",
+      "itemIndex" : 46,
+      "relURL" : "main\/index.html#item-46"
+    },
+    {
+      "explanation" : "shows GPX, Video, Video & GPX",
+      "section" : "GPX-V Menus",
+      "folder" : "library",
+      "name" : "Tools Menu",
+      "itemIndex" : 15,
+      "relURL" : "library\/index.html#item-15"
+    },
+    {
+      "explanation" : "shows Show Toolbar, Customize Toolbar…, Show Sidebar, Enter Full Screen",
+      "section" : "GPX-V Menus",
+      "folder" : "library",
+      "name" : "View Menu",
+      "itemIndex" : 16,
+      "relURL" : "library\/index.html#item-16"
+    },
+    {
+      "explanation" : "shows Show Tab Bar, Show All Tabs, Show Toolbar, Customize Toolbar…, Show Sidebar",
+      "section" : "GPX-V Menus",
+      "folder" : "main",
+      "name" : "View Menu",
+      "itemIndex" : 44,
+      "relURL" : "main\/index.html#item-44"
+    },
+    {
+      "explanation" : "shows Minimize, Minimize All, Zoom, Zoom All, Fill",
+      "section" : "GPX-V Menus",
+      "folder" : "library",
+      "name" : "Window Menu",
+      "itemIndex" : 17,
+      "relURL" : "library\/index.html#item-17"
+    }
+  ]
+}
