@@ -8,9 +8,8 @@ p { font-weight: 400; text-align: center;}
 .tutorial img { display: block; width: 100%; height: 100%; }
 @keyframes hotspot-pulse { 0%, 100% { box-shadow: 0 0 0 0 rgba(52,199,89,0.7); } 50% { box-shadow: 0 0 0 8px rgba(52,199,89,0); } }
 .hotspot { position: absolute; border: 3px solid transparent; border-radius: 6px; box-sizing: border-box; cursor: pointer; transition: background-color 0.15s, border-color 0.15s; }
-.hotspot:hover { border-color: #34c759; background-color: rgba(52,199,89,0.18); animation: hotspot-pulse 1.2s ease-out infinite; }
+.hotspot:hover, .hotspot.active { border-color: #34c759; background-color: rgba(52,199,89,0.18); animation: hotspot-pulse 1.2s ease-out infinite; }
 .hotspot.topmost:hover, .hotspot.topmost.active { background-color: transparent; }
-.hotspot.active { background-color: rgba(52,199,89,0.18); }
 .hotspot.nofill:hover, .hotspot.nofill.active { background-color: transparent; }
 @media (prefers-reduced-motion: reduce) { .hotspot:hover { animation: none; } }
 .caption { margin: 14px auto; height: 4.5em; font-size: 13pt; font-weight: 400; line-height: 1.5; color: var(--text); text-align: center; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; }

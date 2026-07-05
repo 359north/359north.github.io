@@ -225,13 +225,13 @@
     },
     {
       "x" : 367.675048828125,
-      "localizedExplanation" : "shows Welcome to GPX-V…, GPX-V Help, GPX-V Quick Reference",
+      "localizedExplanation" : "shows NSMenuItem, GPX-V Help, GPX-V Quick Reference, Welcome to GPX-V...",
       "localizedName" : "The Help Menu",
       "y" : 0,
       "height" : 24,
       "width" : 39.9931640625,
       "isSimulated" : true,
-      "explanation" : "shows Welcome to GPX-V…, GPX-V Help, GPX-V Quick Reference",
+      "explanation" : "shows NSMenuItem, GPX-V Help, GPX-V Quick Reference, Welcome to GPX-V...",
       "flagDoNotFill" : false,
       "name" : "The Help Menu"
     }

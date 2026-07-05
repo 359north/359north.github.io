@@ -24,6 +24,7 @@
 		784E07162F82DB940054D1B1 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		784E07182F82DB940054D1B1 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		784E071A2F82DB940054D1B1 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		7856A3692FF1BFE50064F289 /* items-index.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "items-index.json"; sourceTree = "<group>"; };
 		785C7B3B2BB9DE25003B115D /* cell.0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell.0.png; sourceTree = "<group>"; };
 		785C7B3C2BB9DE25003B115D /* cell.1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell.1.png; sourceTree = "<group>"; };
 		785C7B3D2BB9DE25003B115D /* cell.2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell.2.png; sourceTree = "<group>"; };
@@ -1128,6 +1129,7 @@
 		78C1DEE82FD351C70090F52C /* quickreference */ = {
 			isa = PBXGroup;
 			children = (
+				7856A3692FF1BFE50064F289 /* items-index.json */,
 				78C1DECA2FD351C70090F52C /* interpolation */,
 				78C1DECF2FD351C70090F52C /* library */,
 				78C1DED42FD351C70090F52C /* main */,

@@ -802,20 +802,12 @@
       "relURL" : "library\/index.html#item-11"
     },
     {
-      "explanation" : "shows NSMenuItem, GPX-V Help, GPX-V Quick Reference, Welcome to GPX-V...",
+      "explanation" : "shows Welcome to GPX-V…, GPX-V Help, GPX-V Quick Reference",
       "section" : "GPX-V Menus",
       "folder" : "library",
       "name" : "Help Menu",
       "itemIndex" : 18,
       "relURL" : "library\/index.html#item-18"
-    },
-    {
-      "explanation" : "shows Welcome to GPX-V…, GPX-V Help, GPX-V Quick Reference",
-      "section" : "GPX-V Menus",
-      "folder" : "main",
-      "name" : "Help Menu",
-      "itemIndex" : 46,
-      "relURL" : "main\/index.html#item-46"
     },
     {
       "explanation" : "shows GPX, Video, Video & GPX",
