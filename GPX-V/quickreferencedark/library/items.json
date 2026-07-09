@@ -20,12 +20,12 @@
       "name" : "The GPX-V Library Window"
     },
     {
-      "x" : 18,
+      "x" : 20,
       "localizedExplanation" : "displays the total number of your projects, source video storage used, and distance covered.",
       "localizedName" : "The Library Summary",
       "y" : 74,
       "height" : 25,
-      "width" : 1104,
+      "width" : 1100,
       "isSimulated" : false,
       "explanation" : "displays the total number of your projects, source video storage used, and distance covered.",
       "flagDoNotFill" : false,
@@ -78,18 +78,6 @@
       "explanation" : "shows additional information as needed.",
       "flagDoNotFill" : false,
       "name" : "The Notes Label"
-    },
-    {
-      "x" : 825.5,
-      "localizedExplanation" : "clears the project list. For DEBUG purposes.",
-      "localizedName" : "The Clear Button",
-      "y" : 528,
-      "height" : 24,
-      "width" : 56,
-      "isSimulated" : false,
-      "explanation" : "clears the project list. For DEBUG purposes.",
-      "flagDoNotFill" : false,
-      "name" : "The Clear Button"
     },
     {
       "x" : 893.5,
@@ -165,13 +153,13 @@
     },
     {
       "x" : 131.762451171875,
-      "localizedExplanation" : "shows Undo, Redo, Cut, Copy Selected Rows, Paste",
+      "localizedExplanation" : "shows Undo, Redo, Cut, Copy, Paste",
       "localizedName" : "The Edit Menu",
       "y" : 0,
       "height" : 24,
       "width" : 35.359375,
       "isSimulated" : true,
-      "explanation" : "shows Undo, Redo, Cut, Copy Selected Rows, Paste",
+      "explanation" : "shows Undo, Redo, Cut, Copy, Paste",
       "flagDoNotFill" : false,
       "name" : "The Edit Menu"
     },
@@ -225,13 +213,13 @@
     },
     {
       "x" : 367.675048828125,
-      "localizedExplanation" : "shows Welcome to GPX-V…, GPX-V Help, GPX-V Quick Reference",
+      "localizedExplanation" : "shows GPX-V Help, GPX-V Quick Reference, Welcome to GPX-V...",
       "localizedName" : "The Help Menu",
       "y" : 0,
       "height" : 24,
       "width" : 39.9931640625,
       "isSimulated" : true,
-      "explanation" : "shows Welcome to GPX-V…, GPX-V Help, GPX-V Quick Reference",
+      "explanation" : "shows GPX-V Help, GPX-V Quick Reference, Welcome to GPX-V...",
       "flagDoNotFill" : false,
       "name" : "The Help Menu"
     }

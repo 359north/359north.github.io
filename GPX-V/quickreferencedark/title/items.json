@@ -20,12 +20,12 @@
       "name" : "The Title Editor"
     },
     {
-      "x" : 454,
+      "x" : 459,
       "localizedExplanation" : "shows the start, finish and length of the video segment to which the title will be applied.",
       "localizedName" : "The Title Range Label",
       "y" : 36,
       "height" : 16,
-      "width" : 192.5,
+      "width" : 182.5,
       "isSimulated" : false,
       "explanation" : "shows the start, finish and length of the video segment to which the title will be applied.",
       "flagDoNotFill" : false,
@@ -69,13 +69,13 @@
     },
     {
       "x" : 217.5,
-      "localizedExplanation" : "shows the first, middle, and last video frames to which the title will be applied.",
+      "localizedExplanation" : "shows the first, middle, and last video frame to which the title will be applied.",
       "localizedName" : "The Title Frame Preview",
       "y" : 67,
       "height" : 160,
       "width" : 865,
       "isSimulated" : false,
-      "explanation" : "shows the first, middle, and last video frames to which the title will be applied.",
+      "explanation" : "shows the first, middle, and last video frame to which the title will be applied.",
       "flagDoNotFill" : false,
       "name" : "The Title Frame Preview"
     },

@@ -20,28 +20,40 @@
       "name" : "The Trackpoint Interpolation Editor"
     },
     {
-      "x" : 442.5,
+      "x" : 439.5,
       "localizedExplanation" : "shows the video and trackpoint time interval you have selected.",
-      "localizedName" : "The Time Range Label",
+      "localizedName" : "The Interpolation Time Range Label",
       "y" : 36,
       "height" : 16,
-      "width" : 203,
+      "width" : 209.5,
       "isSimulated" : false,
       "explanation" : "shows the video and trackpoint time interval you have selected.",
       "flagDoNotFill" : false,
-      "name" : "The Time Range Label"
+      "name" : "The Interpolation Time Range Label"
     },
     {
       "x" : 10,
       "localizedExplanation" : "shows the existing route, the selected segment, and the expected interpolation.",
-      "localizedName" : "The Map View",
+      "localizedName" : "The Interpolation Map",
       "y" : 65,
       "height" : 343,
       "width" : 1068,
       "isSimulated" : false,
       "explanation" : "shows the existing route, the selected segment, and the expected interpolation.",
       "flagDoNotFill" : false,
-      "name" : "The Map View"
+      "name" : "The Interpolation Map"
+    },
+    {
+      "x" : 10,
+      "localizedExplanation" : "show the elevation and gradients of the route, with selection.`",
+      "localizedName" : "The Interpolation Elevation Chart",
+      "y" : 414,
+      "height" : 80,
+      "width" : 1068,
+      "isSimulated" : false,
+      "explanation" : "show the elevation and gradients of the route, with selection.`",
+      "flagDoNotFill" : false,
+      "name" : "The Interpolation Elevation Chart"
     },
     {
       "x" : 399,
@@ -56,16 +68,40 @@
       "name" : "The Interpolation Type Control"
     },
     {
+      "x" : 18,
+      "localizedExplanation" : "describes the trackpoints you have selected for interpolation.",
+      "localizedName" : "The Interpolation Summary Label",
+      "y" : 564,
+      "height" : 16,
+      "width" : 192.5,
+      "isSimulated" : false,
+      "explanation" : "describes the trackpoints you have selected for interpolation.",
+      "flagDoNotFill" : false,
+      "name" : "The Interpolation Summary Label"
+    },
+    {
       "x" : 1009,
       "localizedExplanation" : "inserts the interpolated trackpoints into your route.",
-      "localizedName" : "The Apply Button",
+      "localizedName" : "The Interpolation Apply Button",
       "y" : 561,
       "height" : 24,
       "width" : 59,
       "isSimulated" : false,
       "explanation" : "inserts the interpolated trackpoints into your route.",
       "flagDoNotFill" : false,
-      "name" : "The Apply Button"
+      "name" : "The Interpolation Apply Button"
+    },
+    {
+      "x" : 935,
+      "localizedExplanation" : "closes this editor without making any changes.",
+      "localizedName" : "The Cancel Button",
+      "y" : 561,
+      "height" : 24,
+      "width" : 66,
+      "isSimulated" : false,
+      "explanation" : "closes this editor without making any changes.",
+      "flagDoNotFill" : false,
+      "name" : "The Cancel Button"
     }
   ],
   "title" : "The Interpolation Editor",

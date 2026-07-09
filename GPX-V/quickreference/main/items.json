@@ -24,42 +24,42 @@
       "localizedExplanation" : "contains the video player and selection controls.",
       "localizedName" : "The Video Workspace",
       "y" : 77,
-      "height" : 399.5,
-      "width" : 506.5,
+      "height" : 388.5,
+      "width" : 491.5,
       "isSimulated" : false,
       "explanation" : "contains the video player and selection controls.",
       "flagDoNotFill" : false,
       "name" : "The Video Workspace"
     },
     {
-      "x" : 26,
+      "x" : 26.5,
       "localizedExplanation" : "plays the imported and merged video files.",
       "localizedName" : "The Video Player",
-      "y" : 79,
-      "height" : 283.5,
-      "width" : 504.5,
+      "y" : 78,
+      "height" : 274.5,
+      "width" : 488.5,
       "isSimulated" : false,
       "explanation" : "plays the imported and merged video files.",
       "flagDoNotFill" : false,
       "name" : "The Video Player"
     },
     {
-      "x" : 81,
+      "x" : 81.5,
       "localizedExplanation" : "shows applied speed changes, filters, and titles. Click to edit.",
       "localizedName" : "The Interval Control",
-      "y" : 448.5,
+      "y" : 437.5,
       "height" : 28,
-      "width" : 394.5,
+      "width" : 378.5,
       "isSimulated" : false,
       "explanation" : "shows applied speed changes, filters, and titles. Click to edit.",
       "flagDoNotFill" : false,
       "name" : "The Interval Control"
     },
     {
-      "x" : 194.5,
+      "x" : 187,
       "localizedExplanation" : "moves the selection one second backward.",
       "localizedName" : "The Tick Backward Button",
-      "y" : 409.5,
+      "y" : 398.5,
       "height" : 22,
       "width" : 20,
       "isSimulated" : false,
@@ -68,10 +68,10 @@
       "name" : "The Tick Backward Button"
     },
     {
-      "x" : 222.5,
+      "x" : 215,
       "localizedExplanation" : "shows the first, middle, and last frames of the selection.",
       "localizedName" : "Selected Video Frames",
-      "y" : 364.5,
+      "y" : 353.5,
       "height" : 80,
       "width" : 112,
       "isSimulated" : false,
@@ -80,10 +80,10 @@
       "name" : "Selected Video Frames"
     },
     {
-      "x" : 342.5,
+      "x" : 335,
       "localizedExplanation" : "moves the selection one second backward.",
       "localizedName" : "The Tick Forward Button",
-      "y" : 409.5,
+      "y" : 398.5,
       "height" : 22,
       "width" : 20,
       "isSimulated" : false,
@@ -92,24 +92,24 @@
       "name" : "The Tick Forward Button"
     },
     {
-      "x" : 26,
+      "x" : 26.5,
       "localizedExplanation" : "controls selected video and trackpoints. Slide, click or ⇧-click to change the selection. Use the buttons at each end to adjust the ends of the range by one second at a time.",
       "localizedName" : "The Selection Range Slider",
-      "y" : 364.5,
+      "y" : 353.5,
       "height" : 20,
-      "width" : 504.5,
+      "width" : 488.5,
       "isSimulated" : false,
       "explanation" : "controls selected video and trackpoints. Slide, click or ⇧-click to change the selection. Use the buttons at each end to adjust the ends of the range by one second at a time.",
       "flagDoNotFill" : false,
       "name" : "The Selection Range Slider"
     },
     {
-      "x" : 541.5,
+      "x" : 526.5,
       "localizedExplanation" : "displays your route.",
       "localizedName" : "The Route Map",
       "y" : 77,
-      "height" : 287.5,
-      "width" : 753.5,
+      "height" : 276.5,
+      "width" : 768.5,
       "isSimulated" : false,
       "explanation" : "displays your route.",
       "flagDoNotFill" : false,
@@ -128,10 +128,10 @@
       "name" : "The Map Type Control"
     },
     {
-      "x" : 892,
+      "x" : 884.5,
       "localizedExplanation" : "zooms out to view the entire route.",
       "localizedName" : "The Zoom Out Button",
-      "y" : 318,
+      "y" : 307,
       "height" : 29,
       "width" : 24,
       "isSimulated" : false,
@@ -140,10 +140,10 @@
       "name" : "The Zoom Out Button"
     },
     {
-      "x" : 921,
+      "x" : 913.5,
       "localizedExplanation" : "zooms in as close as possible on the selected trackpoint.",
       "localizedName" : "The Zoom In Button",
-      "y" : 318,
+      "y" : 307,
       "height" : 29,
       "width" : 24,
       "isSimulated" : false,
@@ -152,36 +152,36 @@
       "name" : "The Zoom In Button"
     },
     {
-      "x" : 541.5,
+      "x" : 526.5,
       "localizedExplanation" : "shows route elevation and slope gradient. Click or ⇧-click to select trackpoints.",
       "localizedName" : "The Elevation Chart",
-      "y" : 364.5,
+      "y" : 353.5,
       "height" : 112,
-      "width" : 753.5,
+      "width" : 768.5,
       "isSimulated" : false,
       "explanation" : "shows route elevation and slope gradient. Click or ⇧-click to select trackpoints.",
       "flagDoNotFill" : false,
       "name" : "The Elevation Chart"
     },
     {
-      "x" : 551.5,
+      "x" : 536.5,
       "localizedExplanation" : "shows applied speed changes, filters, and titles. Click to edit.",
       "localizedName" : "The Interval Control",
-      "y" : 448.5,
+      "y" : 437.5,
       "height" : 28,
-      "width" : 733.5,
+      "width" : 748.5,
       "isSimulated" : false,
       "explanation" : "shows applied speed changes, filters, and titles. Click to edit.",
       "flagDoNotFill" : false,
       "name" : "The Interval Control"
     },
     {
-      "x" : 394.5,
+      "x" : 374,
       "localizedExplanation" : "lists the GPS trackpoints in order. Click a row to select the point, ⇧-click to select a range. Arrow keys work too. ",
       "localizedName" : "The Trackpoint Table",
-      "y" : 487.5,
-      "height" : 324.5,
-      "width" : 899.5,
+      "y" : 476.5,
+      "height" : 335.5,
+      "width" : 920,
       "isSimulated" : false,
       "explanation" : "lists the GPS trackpoints in order. Click a row to select the point, ⇧-click to select a range. Arrow keys work too. ",
       "flagDoNotFill" : false,
@@ -191,9 +191,9 @@
       "x" : 25,
       "localizedExplanation" : "shows the document change history, checks for potential problems, and current project status.",
       "localizedName" : "The Information View",
-      "y" : 486.5,
-      "height" : 326.5,
-      "width" : 358.5,
+      "y" : 475.5,
+      "height" : 337.5,
+      "width" : 338,
       "isSimulated" : false,
       "explanation" : "shows the document change history, checks for potential problems, and current project status.",
       "flagDoNotFill" : false,
@@ -203,9 +203,9 @@
       "x" : 25,
       "localizedExplanation" : "shows three classes of available information. Click the one you want to see.",
       "localizedName" : "The Information Option Control",
-      "y" : 486.5,
+      "y" : 475.5,
       "height" : 24,
-      "width" : 358.5,
+      "width" : 338,
       "isSimulated" : false,
       "explanation" : "shows three classes of available information. Click the one you want to see.",
       "flagDoNotFill" : false,
@@ -224,7 +224,7 @@
       "name" : "The Action Buttons"
     },
     {
-      "x" : 228.5,
+      "x" : 159,
       "localizedExplanation" : "imports one or more .mp4 video files",
       "localizedName" : "The Import Video Button",
       "y" : 817,
@@ -236,7 +236,7 @@
       "name" : "The Import Video Button"
     },
     {
-      "x" : 272.5,
+      "x" : 203,
       "localizedExplanation" : "deletes audio tracks",
       "localizedName" : "The Remove Audio Button",
       "y" : 817,
@@ -248,7 +248,7 @@
       "name" : "The Remove Audio Button"
     },
     {
-      "x" : 316.5,
+      "x" : 247,
       "localizedExplanation" : "trims from the start of the video until the first selected trackpoint",
       "localizedName" : "The Trim From Start Button",
       "y" : 817,
@@ -260,7 +260,7 @@
       "name" : "The Trim From Start Button"
     },
     {
-      "x" : 360.5,
+      "x" : 291,
       "localizedExplanation" : "trims from the last selected trackpoint until the end of the video",
       "localizedName" : "The Trim Until End Button",
       "y" : 817,
@@ -272,7 +272,7 @@
       "name" : "The Trim Until End Button"
     },
     {
-      "x" : 404.5,
+      "x" : 335,
       "localizedExplanation" : "opens an editor to apply image filters to the selected video to compensate for shadows, glare, etc.",
       "localizedName" : "The Video Filter Button",
       "y" : 817,
@@ -284,7 +284,7 @@
       "name" : "The Video Filter Button"
     },
     {
-      "x" : 448.5,
+      "x" : 379,
       "localizedExplanation" : "opens an editor to add text to the video for a selected segment",
       "localizedName" : "The Titles Button",
       "y" : 817,
@@ -296,7 +296,7 @@
       "name" : "The Titles Button"
     },
     {
-      "x" : 492.5,
+      "x" : 423,
       "localizedExplanation" : "shares a frame or clip",
       "localizedName" : "The Share Video Button",
       "y" : 817,
@@ -308,7 +308,7 @@
       "name" : "The Share Video Button"
     },
     {
-      "x" : 536.5,
+      "x" : 467,
       "localizedExplanation" : "exports a syncrhonized .mp4 file",
       "localizedName" : "The Export Video Button",
       "y" : 817,
@@ -320,7 +320,19 @@
       "name" : "The Export Video Button"
     },
     {
-      "x" : 614.5,
+      "x" : 545,
+      "localizedExplanation" : "aligns the video and trackpoints, optionally trimming durations.",
+      "localizedName" : "The Synchronize Button",
+      "y" : 817,
+      "height" : 36,
+      "width" : 34,
+      "isSimulated" : false,
+      "explanation" : "aligns the video and trackpoints, optionally trimming durations.",
+      "flagDoNotFill" : false,
+      "name" : "The Synchronize Button"
+    },
+    {
+      "x" : 589,
       "localizedExplanation" : "opens an editor to apply speed adjustments to video and GPX simultaneously.",
       "localizedName" : "The Speed Adjustment Button",
       "y" : 817,
@@ -332,7 +344,7 @@
       "name" : "The Speed Adjustment Button"
     },
     {
-      "x" : 658.5,
+      "x" : 633,
       "localizedExplanation" : "deletes selected trackpoints and video",
       "localizedName" : "The Segment Delete Button",
       "y" : 817,
@@ -344,19 +356,19 @@
       "name" : "The Segment Delete Button"
     },
     {
-      "x" : 702.5,
-      "localizedExplanation" : "controls the direction of immediate synchronization of video and trackpoints",
-      "localizedName" : "The Directional Synch Menu",
+      "x" : 677,
+      "localizedExplanation" : "controls the direction of the link between video and trackpoints.",
+      "localizedName" : "The Link Menu",
       "y" : 823,
       "height" : 24,
-      "width" : 47.5,
+      "width" : 82.5,
       "isSimulated" : false,
-      "explanation" : "controls the direction of immediate synchronization of video and trackpoints",
+      "explanation" : "controls the direction of the link between video and trackpoints.",
       "flagDoNotFill" : false,
-      "name" : "The Directional Synch Menu"
+      "name" : "The Link Menu"
     },
     {
-      "x" : 794,
+      "x" : 803.5,
       "localizedExplanation" : "imports a GPX file",
       "localizedName" : "The Import GPX Button",
       "y" : 817,
@@ -368,7 +380,7 @@
       "name" : "The Import GPX Button"
     },
     {
-      "x" : 838,
+      "x" : 847.5,
       "localizedExplanation" : "adds a trackpoint at the  location on the map at the time specified in video",
       "localizedName" : "The Add Trackpoint Button",
       "y" : 817,
@@ -380,7 +392,7 @@
       "name" : "The Add Trackpoint Button"
     },
     {
-      "x" : 882,
+      "x" : 891.5,
       "localizedExplanation" : "deletes the selected trackpoints",
       "localizedName" : "The Delete Trackpoints Button",
       "y" : 817,
@@ -392,7 +404,7 @@
       "name" : "The Delete Trackpoints Button"
     },
     {
-      "x" : 926,
+      "x" : 935.5,
       "localizedExplanation" : "Edits the selected trackpoints",
       "localizedName" : "The Trackpoint Edit Button",
       "y" : 817,
@@ -404,7 +416,7 @@
       "name" : "The Trackpoint Edit Button"
     },
     {
-      "x" : 970,
+      "x" : 979.5,
       "localizedExplanation" : "interpolates a route between two selected points",
       "localizedName" : "The Route Interpolation Button",
       "y" : 817,
@@ -416,7 +428,7 @@
       "name" : "The Route Interpolation Button"
     },
     {
-      "x" : 1014,
+      "x" : 1023.5,
       "localizedExplanation" : "Adjusts elevations and gradients",
       "localizedName" : "The Elevation Button",
       "y" : 817,
@@ -428,7 +440,7 @@
       "name" : "The Elevation Button"
     },
     {
-      "x" : 1058,
+      "x" : 1067.5,
       "localizedExplanation" : "exports a synchronized GPX file",
       "localizedName" : "The Export GPX Button",
       "y" : 817,
@@ -438,6 +450,18 @@
       "explanation" : "exports a synchronized GPX file",
       "flagDoNotFill" : false,
       "name" : "The Export GPX Button"
+    },
+    {
+      "x" : 1111.5,
+      "localizedExplanation" : "controls whether GPX-V shows inferred trackpoints to fill in gaps where user or GPS trackpoints are missing.",
+      "localizedName" : "TrackPoint Inference Checkbox",
+      "y" : 827,
+      "height" : 16,
+      "width" : 49.5,
+      "isSimulated" : false,
+      "explanation" : "controls whether GPX-V shows inferred trackpoints to fill in gaps where user or GPS trackpoints are missing.",
+      "flagDoNotFill" : false,
+      "name" : "TrackPoint Inference Checkbox"
     },
     {
       "x" : 1260,
@@ -501,13 +525,13 @@
     },
     {
       "x" : 131.762451171875,
-      "localizedExplanation" : "shows Undo, Redo, Cut, Copy Selected Rows, Paste",
+      "localizedExplanation" : "shows Undo Typing, Redo, Cut, Copy, Paste",
       "localizedName" : "The Edit Menu",
       "y" : 0,
       "height" : 24,
       "width" : 35.359375,
       "isSimulated" : true,
-      "explanation" : "shows Undo, Redo, Cut, Copy Selected Rows, Paste",
+      "explanation" : "shows Undo Typing, Redo, Cut, Copy, Paste",
       "flagDoNotFill" : false,
       "name" : "The Edit Menu"
     },
@@ -561,13 +585,13 @@
     },
     {
       "x" : 367.675048828125,
-      "localizedExplanation" : "shows Welcome to GPX-V…, GPX-V Help, GPX-V Quick Reference",
+      "localizedExplanation" : "shows GPX-V Help, GPX-V Quick Reference, Welcome to GPX-V...",
       "localizedName" : "The Help Menu",
       "y" : 0,
       "height" : 24,
       "width" : 39.9931640625,
       "isSimulated" : true,
-      "explanation" : "shows Welcome to GPX-V…, GPX-V Help, GPX-V Quick Reference",
+      "explanation" : "shows GPX-V Help, GPX-V Quick Reference, Welcome to GPX-V...",
       "flagDoNotFill" : false,
       "name" : "The Help Menu"
     }
