@@ -6,64 +6,64 @@
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Add Trackpoint Button",
-      "itemIndex" : 26,
-      "relURL" : "main\/index.html#item-26"
+      "itemIndex" : 28,
+      "relURL" : "main\/index.html#item-28"
     },
     {
       "explanation" : "deletes the selected trackpoints",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Delete Trackpoints Button",
-      "itemIndex" : 27,
-      "relURL" : "main\/index.html#item-27"
+      "itemIndex" : 29,
+      "relURL" : "main\/index.html#item-29"
     },
     {
       "explanation" : "Adjusts elevations and gradients",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Elevation Button",
-      "itemIndex" : 30,
-      "relURL" : "main\/index.html#item-30"
+      "itemIndex" : 32,
+      "relURL" : "main\/index.html#item-32"
     },
     {
       "explanation" : "shows route elevation and slope gradient. Click or ⇧-click to select trackpoints.",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Elevation Chart",
-      "itemIndex" : 12,
-      "relURL" : "main\/index.html#item-12"
+      "itemIndex" : 14,
+      "relURL" : "main\/index.html#item-14"
     },
     {
       "explanation" : "displays a menu of available export actions",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Export Button",
-      "itemIndex" : 31,
-      "relURL" : "main\/index.html#item-31"
+      "itemIndex" : 33,
+      "relURL" : "main\/index.html#item-33"
     },
     {
       "explanation" : "opens this tutorial.",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Help Button",
-      "itemIndex" : 32,
-      "relURL" : "main\/index.html#item-32"
+      "itemIndex" : 34,
+      "relURL" : "main\/index.html#item-34"
     },
     {
       "explanation" : "shows three classes of available information. Click the one you want to see.",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Information Option Control",
-      "itemIndex" : 16,
-      "relURL" : "main\/index.html#item-16"
+      "itemIndex" : 18,
+      "relURL" : "main\/index.html#item-18"
     },
     {
       "explanation" : "shows the document change history, checks for potential problems, and current project status.",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Information View",
-      "itemIndex" : 15,
-      "relURL" : "main\/index.html#item-15"
+      "itemIndex" : 17,
+      "relURL" : "main\/index.html#item-17"
     },
     {
       "explanation" : "displays video, map, elevation chart, trackpoint table, and document contents.",
@@ -78,40 +78,40 @@
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Map Interval Control",
-      "itemIndex" : 13,
-      "relURL" : "main\/index.html#item-13"
+      "itemIndex" : 15,
+      "relURL" : "main\/index.html#item-15"
     },
     {
       "explanation" : "switches between traffic and satellite views.",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Map Type Control",
-      "itemIndex" : 9,
-      "relURL" : "main\/index.html#item-9"
+      "itemIndex" : 11,
+      "relURL" : "main\/index.html#item-11"
     },
     {
       "explanation" : "deletes audio tracks",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Remove Audio Button",
-      "itemIndex" : 18,
-      "relURL" : "main\/index.html#item-18"
+      "itemIndex" : 20,
+      "relURL" : "main\/index.html#item-20"
     },
     {
       "explanation" : "interpolates a route between two selected points",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Route Interpolation Button",
-      "itemIndex" : 29,
-      "relURL" : "main\/index.html#item-29"
+      "itemIndex" : 31,
+      "relURL" : "main\/index.html#item-31"
     },
     {
       "explanation" : "displays your route.",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Route Map",
-      "itemIndex" : 8,
-      "relURL" : "main\/index.html#item-8"
+      "itemIndex" : 10,
+      "relURL" : "main\/index.html#item-10"
     },
     {
       "explanation" : "shows the first, middle, and last frames of the selection.",
@@ -134,16 +134,16 @@
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Speed Adjustment Button",
-      "itemIndex" : 24,
-      "relURL" : "main\/index.html#item-24"
+      "itemIndex" : 26,
+      "relURL" : "main\/index.html#item-26"
     },
     {
       "explanation" : "aligns the video and trackpoints, optionally trimming durations.",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Synchronize Button",
-      "itemIndex" : 23,
-      "relURL" : "main\/index.html#item-23"
+      "itemIndex" : 25,
+      "relURL" : "main\/index.html#item-25"
     },
     {
       "explanation" : "moves the selection one second backward.",
@@ -166,64 +166,64 @@
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Titles Button",
-      "itemIndex" : 22,
-      "relURL" : "main\/index.html#item-22"
+      "itemIndex" : 24,
+      "relURL" : "main\/index.html#item-24"
     },
     {
       "explanation" : "chooses the full toolbar ribbon with all buttons visible, or the compact menu-based ribbon",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Toolbar Display Button",
-      "itemIndex" : 17,
-      "relURL" : "main\/index.html#item-17"
+      "itemIndex" : 19,
+      "relURL" : "main\/index.html#item-19"
     },
     {
       "explanation" : "Edits the selected trackpoints",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Trackpoint Edit Button",
-      "itemIndex" : 28,
-      "relURL" : "main\/index.html#item-28"
+      "itemIndex" : 30,
+      "relURL" : "main\/index.html#item-30"
     },
     {
       "explanation" : "lists the GPS trackpoints in order. Click a row to select the point, ⇧-click to select a range. Arrow keys work too. ",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Trackpoint Table",
-      "itemIndex" : 14,
-      "relURL" : "main\/index.html#item-14"
+      "itemIndex" : 16,
+      "relURL" : "main\/index.html#item-16"
     },
     {
       "explanation" : "trims from the start of the video until the first selected trackpoint",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Trim From Start Button",
-      "itemIndex" : 19,
-      "relURL" : "main\/index.html#item-19"
+      "itemIndex" : 21,
+      "relURL" : "main\/index.html#item-21"
     },
     {
       "explanation" : "trims selected trackpoints and video",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Trim Selection Button",
-      "itemIndex" : 25,
-      "relURL" : "main\/index.html#item-25"
+      "itemIndex" : 27,
+      "relURL" : "main\/index.html#item-27"
     },
     {
       "explanation" : "trims from the last selected trackpoint until the end of the video",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Trim Until End Button",
-      "itemIndex" : 20,
-      "relURL" : "main\/index.html#item-20"
+      "itemIndex" : 22,
+      "relURL" : "main\/index.html#item-22"
     },
     {
       "explanation" : "opens an editor to apply image filters to the selected video to compensate for shadows, glare, etc.",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Video Filter Button",
-      "itemIndex" : 21,
-      "relURL" : "main\/index.html#item-21"
+      "itemIndex" : 23,
+      "relURL" : "main\/index.html#item-23"
     },
     {
       "explanation" : "shows applied speed changes, filters, and titles. Click to edit.",
@@ -250,20 +250,36 @@
       "relURL" : "main\/index.html#item-1"
     },
     {
+      "explanation" : "Video ← GPS Button: On",
+      "section" : "Main Window",
+      "folder" : "main",
+      "name" : "Video ← GPS Button",
+      "itemIndex" : 9,
+      "relURL" : "main\/index.html#item-9"
+    },
+    {
+      "explanation" : "Video → GPS Button: On",
+      "section" : "Main Window",
+      "folder" : "main",
+      "name" : "Video → GPS Button",
+      "itemIndex" : 8,
+      "relURL" : "main\/index.html#item-8"
+    },
+    {
       "explanation" : "zooms in as close as possible on the selected trackpoint.",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Zoom In Button",
-      "itemIndex" : 11,
-      "relURL" : "main\/index.html#item-11"
+      "itemIndex" : 13,
+      "relURL" : "main\/index.html#item-13"
     },
     {
       "explanation" : "zooms out to view the entire route.",
       "section" : "Main Window",
       "folder" : "main",
       "name" : "Zoom Out Button",
-      "itemIndex" : 10,
-      "relURL" : "main\/index.html#item-10"
+      "itemIndex" : 12,
+      "relURL" : "main\/index.html#item-12"
     },
     {
       "explanation" : "applies the computed shift so the video lines up with the GPS track.",
