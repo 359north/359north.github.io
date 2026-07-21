@@ -10,14 +10,14 @@
     {
       "x" : 20,
       "localizedExplanation" : "displays all the projects you have created, across devices and volume.",
-      "localizedName" : "The GPX-V Library Window",
+      "localizedName" : "The Library Window",
       "y" : 72,
       "height" : 500,
       "width" : 1100,
       "isSimulated" : false,
       "explanation" : "displays all the projects you have created, across devices and volume.",
       "flagDoNotFill" : false,
-      "name" : "The GPX-V Library Window"
+      "name" : "The Library Window"
     },
     {
       "x" : 20,
@@ -224,6 +224,6 @@
       "name" : "The Help Menu"
     }
   ],
-  "title" : "The GPX-V Library",
+  "title" : "The Library Window",
   "compositeHeight" : 592
 }

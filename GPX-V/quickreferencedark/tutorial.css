@@ -39,9 +39,9 @@ a.tutorial-card:hover { background-color: var(--card-hover-bg); border-color: va
 .tutorial-card .card-title { font-size: 15pt; font-weight: 500; letter-spacing: -0.01em; color: var(--link); min-width: 0; }
 a.items-index-link { display: block; width: fit-content; margin: 0 auto 18px; padding: 8px 14px; border: 1px solid var(--card-border); border-radius: 8px; text-decoration: none; color: var(--link); font-size: 14pt; font-weight: 500; background: var(--card-bg); transition: background-color 0.15s, border-color 0.15s; }
 a.items-index-link:hover { background-color: var(--card-hover-bg); border-color: var(--card-hover-border); }
-.letters { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 auto 18px; max-width: 960px; justify-content: center; }
-.letters a { display: inline-block; min-width: 28px; padding: 4px 8px; text-align: center; border: 1px solid var(--card-border); border-radius: 6px; text-decoration: none; color: var(--text); font-size: 13pt; font-weight: 500; background: var(--card-bg); transition: background-color 0.15s, border-color 0.15s; }
-.letters a:hover { background-color: var(--card-hover-bg); border-color: var(--card-hover-border); }
+.page-nav { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 auto 18px; max-width: 960px; justify-content: center; }
+.page-nav a { display: inline-block; min-width: 28px; padding: 4px 10px; text-align: center; border: 1px solid var(--card-border); border-radius: 6px; text-decoration: none; color: var(--text); font-size: 13pt; font-weight: 500; background: var(--card-bg); transition: background-color 0.15s, border-color 0.15s; }
+.page-nav a:hover { background-color: var(--card-hover-bg); border-color: var(--card-hover-border); }
 .items-index { display: flex; flex-direction: column; gap: 28px; max-width: 960px; margin: 8px auto 0; }
 .page-section { scroll-margin-top: 12px; }
 .page-section h2 { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif; font-size: 20pt; font-weight: 600; letter-spacing: -0.015em; line-height: 1.2; margin: 0 0 10px; color: var(--link); }
@@ -53,3 +53,4 @@ a.entry-link { display: block; padding: 8px 12px; border-radius: 8px; text-decor
 a.entry-link:hover { background-color: var(--card-hover-bg); }
 .entry-title { font-size: 14pt; font-weight: 500; color: var(--link); }
 .entry-explanation { font-size: 13pt; font-weight: 400; color: var(--muted); margin-left: 8px; }
+.section-explanation { font-size: 14pt; font-weight: 400; color: var(--muted); line-height: 1.4; margin: 0 0 10px; text-align: left; }
