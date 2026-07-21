@@ -25,7 +25,7 @@
       "localizedName" : "The Video Workspace",
       "y" : 77,
       "height" : 385,
-      "width" : 482,
+      "width" : 478.5,
       "isSimulated" : false,
       "explanation" : "contains the video player and selection controls.",
       "flagDoNotFill" : false,
@@ -35,9 +35,9 @@
       "x" : 26,
       "localizedExplanation" : "plays the imported and merged video files.",
       "localizedName" : "The Video Player",
-      "y" : 78.5,
-      "height" : 270,
-      "width" : 480,
+      "y" : 79.5,
+      "height" : 268,
+      "width" : 476.5,
       "isSimulated" : false,
       "explanation" : "plays the imported and merged video files.",
       "flagDoNotFill" : false,
@@ -49,14 +49,14 @@
       "localizedName" : "The Video Interval Control",
       "y" : 434,
       "height" : 28,
-      "width" : 370,
+      "width" : 366.5,
       "isSimulated" : false,
       "explanation" : "shows applied speed changes, filters, and titles. Click to edit.",
       "flagDoNotFill" : false,
       "name" : "The Video Interval Control"
     },
     {
-      "x" : 62,
+      "x" : 60.5,
       "localizedExplanation" : "moves the selection one second backward.",
       "localizedName" : "The Tick Backward Button",
       "y" : 395,
@@ -68,7 +68,7 @@
       "name" : "The Tick Backward Button"
     },
     {
-      "x" : 90,
+      "x" : 88.5,
       "localizedExplanation" : "shows the first, middle, and last frames of the selection.",
       "localizedName" : "Selected Video Frames",
       "y" : 350,
@@ -80,7 +80,7 @@
       "name" : "Selected Video Frames"
     },
     {
-      "x" : 450,
+      "x" : 448.5,
       "localizedExplanation" : "moves the selection one second backward.",
       "localizedName" : "The Tick Forward Button",
       "y" : 395,
@@ -97,43 +97,19 @@
       "localizedName" : "The Selection Range Slider",
       "y" : 350,
       "height" : 20,
-      "width" : 480,
+      "width" : 476.5,
       "isSimulated" : false,
       "explanation" : "controls selected video and trackpoints. Slide, click or ⇧-click to change the selection. Use the buttons at each end to adjust the ends of the range by one second at a time.",
       "flagDoNotFill" : false,
       "name" : "The Selection Range Slider"
     },
     {
-      "x" : 478,
-      "localizedExplanation" : "Video → GPS Button: On",
-      "localizedName" : "Video → GPS Button",
-      "y" : 257.5,
-      "height" : 24,
-      "width" : 24,
-      "isSimulated" : false,
-      "explanation" : "Video → GPS Button: On",
-      "flagDoNotFill" : false,
-      "name" : "Video → GPS Button"
-    },
-    {
-      "x" : 522,
-      "localizedExplanation" : "Video ← GPS Button: On",
-      "localizedName" : "Video ← GPS Button",
-      "y" : 257.5,
-      "height" : 24,
-      "width" : 24,
-      "isSimulated" : false,
-      "explanation" : "Video ← GPS Button: On",
-      "flagDoNotFill" : false,
-      "name" : "Video ← GPS Button"
-    },
-    {
-      "x" : 517,
+      "x" : 513.5,
       "localizedExplanation" : "displays your route.",
       "localizedName" : "The Route Map",
       "y" : 77,
       "height" : 273,
-      "width" : 778,
+      "width" : 781.5,
       "isSimulated" : false,
       "explanation" : "displays your route.",
       "flagDoNotFill" : false,
@@ -152,7 +128,7 @@
       "name" : "The Map Type Control"
     },
     {
-      "x" : 879.5,
+      "x" : 878,
       "localizedExplanation" : "zooms out to view the entire route.",
       "localizedName" : "The Zoom Out Button",
       "y" : 303.5,
@@ -164,7 +140,7 @@
       "name" : "The Zoom Out Button"
     },
     {
-      "x" : 908.5,
+      "x" : 907,
       "localizedExplanation" : "zooms in as close as possible on the selected trackpoint.",
       "localizedName" : "The Zoom In Button",
       "y" : 303.5,
@@ -176,28 +152,52 @@
       "name" : "The Zoom In Button"
     },
     {
-      "x" : 517,
+      "x" : 513.5,
       "localizedExplanation" : "shows route elevation and slope gradient. Click or ⇧-click to select trackpoints.",
       "localizedName" : "The Elevation Chart",
       "y" : 350,
       "height" : 112,
-      "width" : 778,
+      "width" : 781.5,
       "isSimulated" : false,
       "explanation" : "shows route elevation and slope gradient. Click or ⇧-click to select trackpoints.",
       "flagDoNotFill" : false,
       "name" : "The Elevation Chart"
     },
     {
-      "x" : 527,
+      "x" : 523.5,
       "localizedExplanation" : "shows applied speed changes, filters, and titles. Click to edit.",
       "localizedName" : "The Map Interval Control",
       "y" : 434,
       "height" : 28,
-      "width" : 758,
+      "width" : 761.5,
       "isSimulated" : false,
       "explanation" : "shows applied speed changes, filters, and titles. Click to edit.",
       "flagDoNotFill" : false,
       "name" : "The Map Interval Control"
+    },
+    {
+      "x" : 474.5,
+      "localizedExplanation" : "",
+      "localizedName" : "",
+      "y" : 257.5,
+      "height" : 24,
+      "width" : 24,
+      "isSimulated" : false,
+      "explanation" : "",
+      "flagDoNotFill" : false,
+      "name" : ""
+    },
+    {
+      "x" : 518.5,
+      "localizedExplanation" : "",
+      "localizedName" : "",
+      "y" : 257.5,
+      "height" : 24,
+      "width" : 24,
+      "isSimulated" : false,
+      "explanation" : "",
+      "flagDoNotFill" : false,
+      "name" : ""
     },
     {
       "x" : 374,
@@ -210,6 +210,18 @@
       "explanation" : "lists the GPS trackpoints in order. Click a row to select the point, ⇧-click to select a range. Arrow keys work too. ",
       "flagDoNotFill" : false,
       "name" : "The Trackpoint Table"
+    },
+    {
+      "x" : 374,
+      "localizedExplanation" : "inferred trackpoints are visible — click to hide them",
+      "localizedName" : "The Inferred Trackpoints Control",
+      "y" : 473,
+      "height" : 28,
+      "width" : 920,
+      "isSimulated" : false,
+      "explanation" : "inferred trackpoints are visible — click to hide them",
+      "flagDoNotFill" : false,
+      "name" : "The Inferred Trackpoints Control"
     },
     {
       "x" : 25,
