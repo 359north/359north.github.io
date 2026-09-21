@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>iPhone Duo Test Screenshots</title>
+	<style>
+		body {
+			font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+			background: #000000;
+			color: #f2f2f2;
+			margin: 0;
+			padding: 24px;
+		}
+		h1 {
+			font-size: 20px;
+			font-weight: 600;
+			margin: 0 0 24px 0;
+		}
+		.row {
+			display: flex;
+			flex-wrap: wrap;
+			gap: 20px;
+			margin-bottom: 28px;
+			align-items: flex-end;
+		}
+		.item {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			gap: 8px;
+		}
+		.item img {
+			transform-origin: top center;
+			cursor: zoom-in;
+			border: 1px solid #444;
+			background: #000;
+			display: block;
+		}
+		.item span {
+			font-size: 16px;
+			color: #ffffff;
+			text-align: center;
+		}
+
+		/* Lightbox */
+		#lightbox {
+			display: none;
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background: rgba(0, 0, 0, 0.85);
+			align-items: center;
+			justify-content: center;
+			cursor: zoom-out;
+			z-index: 1000;
+		}
+		#lightbox.open {
+			display: flex;
+		}
+		#lightbox img {
+			max-width: 95%;
+			max-height: 95%;
+			box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+		}
+	</style>
+</head>
+<body>
+
+	<h1>iPhone Duo Test Screenshots</h1>
+
+	<div class="row">
+		<div class="item"><img src="1B.png" style="zoom: 0.25;" onclick="openLightbox('1B.png')"><span>Duo Closed<br>Portrait</span></div>
+		<div class="item"><img src="2G.png" style="zoom: 0.25;" onclick="openLightbox('2G.png')"><span>Duo Closed<br>Landscape Counterclockwise</span></div>
+		<div class="item"><img src="2E.png" style="zoom: 0.25;" onclick="openLightbox('2E.png')"><span>Duo Closed<br>Landscape Clockwise</span></div>
+	</div>
+
+	<div class="row">
+		<div class="item"><img src="4A.png" style="zoom: 0.25;" onclick="openLightbox('4A.png')"><span>Duo Open<br>Landscape</span></div>
+		<div class="item"><img src="5B.png" style="zoom: 0.25;" onclick="openLightbox('5B.png')"><span>Duo Open<br>Portrait</span></div>
+		<div class="item"><img src="5D.png" style="zoom: 0.25;" onclick="openLightbox('5D.png')"><span>Duo Open<br>Portrait 2</span></div>
+	</div>
+
+	<div class="row">
+		<div class="item"><img src="6.png" style="zoom: 0.25;" onclick="openLightbox('6.png')"><span>iPhone<br>Portrait</span></div>
+		<div class="item"><img src="7.png" style="zoom: 0.25;" onclick="openLightbox('7.png')"><span>iPhone<br>Landscape</span></div>
+	</div>
+
+	<div class="row">
+		<div class="item"><img src="8.png" style="zoom: 0.25;" onclick="openLightbox('8.png')"><span>iPad<br>Landscape</span></div>
+		<div class="item"><img src="9.png" style="zoom: 0.25;" onclick="openLightbox('9.png')"><span>iPad<br>Portrait</span></div>
+	</div>
+
+	<div id="lightbox" onclick="closeLightbox()">
+		<img id="lightbox-img" src="" alt="">
+	</div>
+
+	<script>
+		function openLightbox(src) {
+			document.getElementById('lightbox-img').src = src;
+			document.getElementById('lightbox').classList.add('open');
+		}
+		function closeLightbox() {
+			document.getElementById('lightbox').classList.remove('open');
+		}
+	</script>
+
+</body>
+</html>
